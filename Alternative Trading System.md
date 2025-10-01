@@ -1,0 +1,5 @@
+- Alternative trading systems (ATS) are venues for matching large buy and sell transactions.
+- They are not as highly regulated as exchanges.
+- Examples:  
+	- dark pools and ECNs.
+- SEC Regulation ATS establishes a regulatory framework for these trading venues.

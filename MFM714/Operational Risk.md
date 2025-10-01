@@ -1,0 +1,1 @@
+Potential system vulnerabilities, fraud, operational issues and generally anything (except for market risk and credit risk) that could cause a loss to a bank

@@ -1,0 +1,272 @@
+{
+  "main": {
+    "id": "4fbbc99f9d3aa9af",
+    "type": "split",
+    "children": [
+      {
+        "id": "adf347be614a00da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b872c69bce7cc45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CFA2/241116 Quantitative.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "241116 Quantitative"
+            }
+          },
+          {
+            "id": "ee760758f86dd976",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CFA - Extensions of Multiple Regression.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CFA - Extensions of Multiple Regression"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bd7f7c3c26080316",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2e1cc24f2357ca1",
+        "type": "tabs",
+        "dimension": 75.96153846153847,
+        "children": [
+          {
+            "id": "bfcff63ff21d2678",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "af2bde1289889eac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Convertible",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "53da6c98488c6339",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "8dae6152e2ace8d4",
+        "type": "tabs",
+        "dimension": 24.038461538461537,
+        "children": [
+          {
+            "id": "20f490b882bd84a6",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 380.5
+  },
+  "right": {
+    "id": "e0728eca44de90e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "954ac486a5b6e09b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95625edf04a506f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CFA2/241112 Alternative Investment.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 241112 Alternative Investment"
+            }
+          },
+          {
+            "id": "eab6329de923eb71",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CFA2/241112 Alternative Investment.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 241112 Alternative Investment"
+            }
+          },
+          {
+            "id": "783e7a6503a70bfb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "143e1b59f27366a7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CFA2/241112 Alternative Investment.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 241112 Alternative Investment"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "switcher:Open quick switcher": false,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false,
+      "header-adjuster:Adjust Headers": false
+    }
+  },
+  "active": "ee760758f86dd976",
+  "lastOpenFiles": [
+    "Untitled.base",
+    "《怎么办》.md",
+    "CFA2/241102 Fixed Income Review.md",
+    "CFA - Extensions of Multiple Regression.md",
+    "CFA2/241111 Economics.md",
+    "CFA2/241116 Quantitative.md",
+    "Quant - Model Misspecification.md",
+    "CFA2/MRR - OIS Spread.md",
+    "CFA2/CFA二级大纲.md",
+    "CFA2/Quant - Evaluation & Interpretation Model Fit.md",
+    "CFA2/CFA Quantitative.md",
+    "CFA2/241103 Derivatives.md",
+    "Convertible Bond.md",
+    "CFA2/241117 Equity.md",
+    "CFA2/241114 Portfolio Management.md",
+    "CFA2/241112 Alternative Investment.md",
+    "CFA2/ETF.md",
+    "MRR-OIS Spread.md",
+    "%eval.md",
+    "240227.md",
+    "240301.md",
+    "240302.md",
+    "240304.md",
+    "240318.md",
+    "240426.md",
+    "240619.md",
+    "Pasted image 20240425004901.png",
+    "Pasted image 20240523154355.png",
+    "Pasted image 20240425145439.png",
+    "Pasted image 20240526101101.png",
+    "Pasted image 20240526101543.png",
+    "Pasted image 20241103232555.png",
+    "CFA2",
+    "Pasted image 20240526104523.png",
+    "Pasted image 20240425152132.png",
+    "Pasted image 20240425152136.png",
+    "Pasted image 20240425103412.png",
+    "Untitled.canvas",
+    "MFM702",
+    "MFM714.zip",
+    "Untitled 1",
+    "SAS",
+    "STATS790",
+    "Headline",
+    "MFM714",
+    "COMPSCI 3D03",
+    "Psychology",
+    "Untitled 1.canvas"
+  ]
+}

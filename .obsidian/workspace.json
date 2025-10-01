@@ -1,0 +1,273 @@
+{
+  "main": {
+    "id": "4fbbc99f9d3aa9af",
+    "type": "split",
+    "children": [
+      {
+        "id": "adf347be614a00da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b872c69bce7cc45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CFA2/241117 Equity.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "241117 Equity"
+            }
+          },
+          {
+            "id": "db11d61dc7c3bf23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CFA2/0-股权/02-分红折现模型/020-分红折现模型-目录.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "020-分红折现模型-目录"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bd7f7c3c26080316",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2e1cc24f2357ca1",
+        "type": "tabs",
+        "dimension": 75.96153846153847,
+        "children": [
+          {
+            "id": "bfcff63ff21d2678",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "af2bde1289889eac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "DDM",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "53da6c98488c6339",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "8dae6152e2ace8d4",
+        "type": "tabs",
+        "dimension": 24.038461538461537,
+        "children": [
+          {
+            "id": "20f490b882bd84a6",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 380.5
+  },
+  "right": {
+    "id": "e0728eca44de90e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "954ac486a5b6e09b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95625edf04a506f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CFA2/241112 Alternative Investment.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 241112 Alternative Investment"
+            }
+          },
+          {
+            "id": "eab6329de923eb71",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CFA2/241112 Alternative Investment.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 241112 Alternative Investment"
+            }
+          },
+          {
+            "id": "783e7a6503a70bfb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "143e1b59f27366a7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CFA2/241112 Alternative Investment.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 241112 Alternative Investment"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "daily-notes:Open today's daily note": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "switcher:Open quick switcher": false,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false,
+      "header-adjuster:Adjust Headers": false
+    }
+  },
+  "active": "156c1d3ad9d43706",
+  "lastOpenFiles": [
+    "CFA2/0-股权/01-股权定价基础/Alpha.md",
+    "CFA2/0-股权/02-分红折现模型/020-分红折现模型-目录.md",
+    "CFA2/0-股权/00-股权-目录.md",
+    "CFA2/0-股权/01-股权定价基础/公司间通用的战略.md",
+    "CFA2/241112 Alternative Investment.md",
+    "CFA2/经济学/经济学-汇率-货币财政政策.md",
+    "CFA2/经济学/241111 Economics.md",
+    "CFA2/经济学/00-经济学-汇率-目录.md",
+    "CFA2/241102 Fixed Income Review.md",
+    "CFA2/241103 Derivatives.md",
+    "CFA2/0-股权/01-股权定价基础/波特五力模型.md",
+    "CFA2/0-股权/01-股权定价基础/波特五力模型(2).md",
+    "CFA2/0-股权/01-股权定价基础/010-股权-股权定价基础-目录.md",
+    "CFA2/241117 Equity.md",
+    "CFA2/241116 Quantitative.md",
+    "CFA2/经济学/CFA-Economics.md",
+    "CFA2/0-股权/02-分红折现模型",
+    "CFA2/CFA二级大纲.md",
+    "CFA2/ETF.md",
+    "CFA2/经济学/Economics - Currency Exchange.md",
+    "CFA2/CFA Quantitative.md",
+    "CFA2/MRR - OIS Spread.md",
+    "CFA2/Quant - Evaluation & Interpretation Model Fit.md",
+    "波特五力模型(1).md",
+    "CFA2/0-股权/01-股权定价基础",
+    "CFA2/0-股权",
+    "CFA2/经济学",
+    "Convertible Bond.md",
+    "240227.md",
+    "240301.md",
+    "Untitled.base",
+    "Pasted image 20240425004901.png",
+    "Pasted image 20240523154355.png",
+    "Pasted image 20240425145439.png",
+    "Pasted image 20240526101101.png",
+    "Pasted image 20240526101543.png",
+    "Pasted image 20241103232555.png",
+    "CFA2",
+    "Pasted image 20240526104523.png",
+    "Pasted image 20240425152132.png",
+    "Pasted image 20240425152136.png",
+    "Pasted image 20240425103412.png",
+    "Untitled.canvas",
+    "MFM702",
+    "MFM714.zip",
+    "Untitled 1",
+    "SAS",
+    "Untitled 1.canvas"
+  ]
+}

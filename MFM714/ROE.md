@@ -1,0 +1,1 @@
+ROE is normally believed to be roughly 10% to 30%, but after plotting the boxplot of the HS300 universe (using Pandas DataFrame *df.boxplot(sym='rs')* attribute), we observed many negative ROE values or extreme values. Thus, we windsorzing the ROE by truncating all ROE to be within 3 standard deviation.

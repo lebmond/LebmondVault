@@ -1,0 +1,1 @@
+A copula function is a generic linking function that connecting individual distributions of default times.

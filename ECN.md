@@ -1,0 +1,10 @@
+- An electronic communication network (ECN) is a digital system that matches buyers and sellers looking to trade securities in the financial markets.
+- Pros:
+	- ECNs allow brokerages and investors in different geographic areas to trade without a third party involved, ==offering privacy== for investors.
+	- ECNs enables trading to happen ==outside of traditional trading hours==, therefore enabling investors to react to or anticipate after-hours news.
+	- Mitigate counterparty credit risk
+		- Reduce counterparty risk by matching orders directly between participants, pre-trade credit checks, position limits, and margin requirements.
+		- Counterparty risk still exists; ECNs do not guarantee the performance of trades or the financial obligations of market participants. 
+- Cons:
+	- One of the downsides of using ECNs is that they have ==access fees== and commission charges that can jack up the overall price of use.
+- Without ECNs, it would take considerably longer for buyers and sellers to be matched with one another, making it more difficult to enter or exit positions and adding to the costs and risks of trading.
