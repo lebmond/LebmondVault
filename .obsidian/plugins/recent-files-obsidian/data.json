@@ -1,68 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "00-股权-目录",
-      "path": "CFA2/0-股权/00-股权-目录.md"
-    },
-    {
-      "basename": "Alpha",
-      "path": "CFA2/0-股权/01-股权定价基础/Alpha.md"
-    },
-    {
-      "basename": "020-分红折现模型-目录",
-      "path": "CFA2/0-股权/02-分红折现模型/020-分红折现模型-目录.md"
-    },
-    {
-      "basename": "公司间通用的战略",
-      "path": "CFA2/0-股权/01-股权定价基础/公司间通用的战略.md"
-    },
-    {
-      "basename": "241112 Alternative Investment",
-      "path": "CFA2/241112 Alternative Investment.md"
-    },
-    {
-      "basename": "经济学-汇率-货币财政政策",
-      "path": "CFA2/经济学/经济学-汇率-货币财政政策.md"
-    },
-    {
-      "basename": "241111 Economics",
-      "path": "CFA2/经济学/241111 Economics.md"
-    },
-    {
-      "basename": "00-经济学-汇率-目录",
-      "path": "CFA2/经济学/00-经济学-汇率-目录.md"
-    },
-    {
-      "basename": "241102 Fixed Income Review",
-      "path": "CFA2/241102 Fixed Income Review.md"
+      "basename": "Equilibrium Interest Model",
+      "path": "CFA2/5-固定收益/52-无套利估值/Equilibrium Interest Model.md"
     },
     {
       "basename": "241103 Derivatives",
       "path": "CFA2/241103 Derivatives.md"
     },
     {
-      "basename": "波特五力模型",
-      "path": "CFA2/0-股权/01-股权定价基础/波特五力模型.md"
+      "basename": "241102 Fixed Income Review",
+      "path": "CFA2/241102 Fixed Income Review.md"
     },
     {
-      "basename": "波特五力模型(2)",
-      "path": "CFA2/0-股权/01-股权定价基础/波特五力模型(2).md"
+      "basename": "50-固定收益-目录",
+      "path": "CFA2/5-固定收益/50-固定收益-目录.md"
     },
     {
-      "basename": "010-股权-股权定价基础-目录",
-      "path": "CFA2/0-股权/01-股权定价基础/010-股权-股权定价基础-目录.md"
+      "basename": "52000-固定收益-无套利估值-大纲",
+      "path": "CFA2/5-固定收益/52-无套利估值/52000-固定收益-无套利估值-大纲.md"
     },
     {
-      "basename": "241117 Equity",
-      "path": "CFA2/241117 Equity.md"
-    },
-    {
-      "basename": "241116 Quantitative",
-      "path": "CFA2/241116 Quantitative.md"
-    },
-    {
-      "basename": "CFA-Economics",
-      "path": "CFA2/经济学/CFA-Economics.md"
+      "basename": "241112 Alternative Investment",
+      "path": "CFA2/241112 Alternative Investment.md"
     },
     {
       "basename": "CFA二级大纲",
@@ -73,40 +33,32 @@
       "path": "CFA2/ETF.md"
     },
     {
-      "basename": "Economics - Currency Exchange",
-      "path": "CFA2/经济学/Economics - Currency Exchange.md"
+      "basename": "Ho–Lee model",
+      "path": "CFA2/5-固定收益/52-无套利估值/Ho–Lee model.md"
     },
     {
-      "basename": "CFA Quantitative",
-      "path": "CFA2/CFA Quantitative.md"
+      "basename": "Cox-Ingersoll-Ross Model",
+      "path": "CFA2/5-固定收益/52-无套利估值/Cox-Ingersoll-Ross Model.md"
+    },
+    {
+      "basename": "Vasicek Model",
+      "path": "CFA2/5-固定收益/52-无套利估值/Vasicek Model.md"
+    },
+    {
+      "basename": "42000-投资组合管理-主动基金管理分析",
+      "path": "CFA2/4-投资组合管理/42-主动基金管理分析/42000-投资组合管理-主动基金管理分析.md"
+    },
+    {
+      "basename": "%eval",
+      "path": "%eval.md"
     },
     {
       "basename": "MRR - OIS Spread",
       "path": "CFA2/MRR - OIS Spread.md"
     },
     {
-      "basename": "Quant - Evaluation & Interpretation Model Fit",
-      "path": "CFA2/Quant - Evaluation & Interpretation Model Fit.md"
-    },
-    {
-      "basename": "Convertible Bond",
-      "path": "Convertible Bond.md"
-    },
-    {
-      "basename": "240227",
-      "path": "240227.md"
-    },
-    {
-      "basename": "240301",
-      "path": "240301.md"
-    },
-    {
-      "basename": "%SYMDEL",
-      "path": "%SYMDEL.md"
-    },
-    {
-      "basename": "%eval",
-      "path": "%eval.md"
+      "basename": "40-投资组合管理-目录",
+      "path": "CFA2/4-投资组合管理/40-投资组合管理-目录.md"
     },
     {
       "basename": "《怎么办》",
@@ -121,84 +73,132 @@
       "path": "240215.md"
     },
     {
-      "basename": "Coinbase Global Inc_",
-      "path": "Coinbase Global Inc_.md"
-    },
-    {
-      "basename": "Common Equity Tier 1 Capital",
-      "path": "Common Equity Tier 1 Capital.md"
-    },
-    {
-      "basename": "Cox-Ingersoll-Ross Model",
-      "path": "Cox-Ingersoll-Ross Model.md"
-    },
-    {
-      "basename": "CFA - Extensions of Multiple Regression",
-      "path": "CFA - Extensions of Multiple Regression.md"
-    },
-    {
-      "basename": "DIM Function",
-      "path": "DIM Function.md"
-    },
-    {
-      "basename": "EVE",
-      "path": "EVE.md"
-    },
-    {
-      "basename": "Fixed Income",
-      "path": "Fixed Income.md"
-    },
-    {
-      "basename": "FX Market",
-      "path": "FX Market.md"
-    },
-    {
-      "basename": "CFA - Machine Learning",
-      "path": "CFA - Machine Learning.md"
-    },
-    {
-      "basename": "镰仓大佛",
-      "path": "镰仓大佛.md"
-    },
-    {
-      "basename": "列宁",
-      "path": "列宁.md"
+      "basename": "Breusch-Godfrey Test",
+      "path": "CFA2/3-量化/33-模型错误/Breusch-Godfrey Test.md"
     },
     {
       "basename": "面试准备",
       "path": "面试准备.md"
     },
     {
+      "basename": "I-Spread",
+      "path": "I-Spread.md"
+    },
+    {
+      "basename": "Equity Index Forward",
+      "path": "Equity Index Forward.md"
+    },
+    {
+      "basename": "Z-Spread",
+      "path": "Z-Spread.md"
+    },
+    {
+      "basename": "Arbitrage-Free Interest Model",
+      "path": "CFA2/5-固定收益/52-无套利估值/Arbitrage-Free Interest Model.md"
+    },
+    {
+      "basename": "Kalotay-Williams-Fabozzi Model",
+      "path": "Kalotay-Williams-Fabozzi Model.md"
+    },
+    {
+      "basename": "CFA-Economics",
+      "path": "CFA2/2-经济学/CFA-Economics.md"
+    },
+    {
+      "basename": "240216",
+      "path": "240216.md"
+    },
+    {
+      "basename": "240302",
+      "path": "240302.md"
+    },
+    {
+      "basename": "33000-量化-模型错误-大纲",
+      "path": "CFA2/3-量化/33-模型错误/33000-量化-模型错误-大纲.md"
+    },
+    {
+      "basename": "Autocorrelation",
+      "path": "CFA2/3-量化/35-时间序列分析/Autocorrelation.md"
+    },
+    {
+      "basename": "%SYMDEL",
+      "path": "%SYMDEL.md"
+    },
+    {
+      "basename": "Serial Correlation",
+      "path": "CFA2/3-量化/33-模型错误/Serial Correlation.md"
+    },
+    {
+      "basename": "240227",
+      "path": "240227.md"
+    },
+    {
+      "basename": "240304",
+      "path": "240304.md"
+    },
+    {
+      "basename": "%sysevalf",
+      "path": "%sysevalf.md"
+    },
+    {
+      "basename": "Omitted Variable",
+      "path": "CFA2/3-量化/33-模型错误/Omitted Variable.md"
+    },
+    {
+      "basename": "一致性",
+      "path": "一致性.md"
+    },
+    {
+      "basename": "Heteroskedasticity",
+      "path": "CFA2/3-量化/33-模型错误/Heteroskedasticity.md"
+    },
+    {
+      "basename": "Incorrect Data Pooling",
+      "path": "CFA2/3-量化/33-模型错误/Incorrect Data Pooling.md"
+    },
+    {
+      "basename": "30-量化-目录",
+      "path": "CFA2/3-量化/30-量化-目录.md"
+    },
+    {
+      "basename": "41-经济和投资市场-大纲",
+      "path": "CFA2/4-投资组合管理/41-经济和投资市场/41-经济和投资市场-大纲.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "Untitled 1.base"
+    },
+    {
+      "basename": "Untitled",
+      "path": "CFA2/4-投资组合管理/41-经济和投资市场/Untitled.md"
+    },
+    {
+      "basename": "241117 Equity",
+      "path": "CFA2/0-股权/241117 Equity.md"
+    },
+    {
+      "basename": "00-股权-目录",
+      "path": "CFA2/0-股权/00-股权-目录.md"
+    },
+    {
+      "basename": "Exchange-Traded Funds",
+      "path": "Exchange-Traded Funds.md"
+    },
+    {
       "basename": "社会革命党",
       "path": "社会革命党.md"
     },
     {
-      "basename": "妥协主义",
-      "path": "妥协主义.md"
+      "basename": "列宁",
+      "path": "列宁.md"
     },
     {
-      "basename": "信息代谢理论",
-      "path": "信息代谢理论.md"
+      "basename": "Business Confidence",
+      "path": "Business Confidence.md"
     },
     {
-      "basename": "找Data工作简历tips",
-      "path": "找Data工作简历tips.md"
-    },
-    {
-      "basename": "经济主义",
-      "path": "经济主义.md"
-    },
-    {
-      "basename": "240318",
-      "path": "240318.md"
-    },
-    {
-      "basename": "240319",
-      "path": "240319.md"
-    },
-    {
-      "basename": "240417",
-      "path": "240417.md"
+      "basename": "CAPM",
+      "path": "CAPM.md"
     }
   ],
   "omittedPaths": [],

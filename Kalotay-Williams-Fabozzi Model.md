@@ -5,7 +5,7 @@ tags:
   - Fixed_Income
   - InterestRate
 aliases:
-  - KMF Model
+  - KWF Model
 ---
 In contrast to [[Ho–Lee model]] which describes the short rate using a normal process, KWF model assumes the short rate to follow a **lognormal** process described below.
 

@@ -10,8 +10,7 @@ $$\text{TED Spread}=\text{three month MRR}-\text{three month Treasury bill rate}
 Riding the yield curve: a strategy to invest a bond with tenor higher than the investment horizon (e.g. invest in a bond whose maturity is in 10 years but the investor only plans to hold it 5 years), assuming that the yield is upward sloping and the yield curve is constant. If the yield curve indeed does not change its level and shape, then as bond approaches maturity, it will be priced using successively low yields.
 
 # Module 2
-1. **Value Additivity Principle**: the value of the whole asset equals the sum of the parts that make up to the whole asset
-2. **Dominance Principle**: a financial asset with a risk free payoff in the future must have a positive price today i.e. two bonds that are risk free and have the same maturity should have the same discount rates and prices.
+
 
 [[Equilibrium Interest Model]] 
 [[Arbitrage-Free Interest Model]]

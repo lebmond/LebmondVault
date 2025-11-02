@@ -1,0 +1,2 @@
+- 去真 (False Positive), 结果为真,
+- 错误地拒绝了一个正确的Null Hypothesis.犯一类错误的概率就是significance level ($\alpha$) 

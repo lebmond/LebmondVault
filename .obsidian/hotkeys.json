@@ -51,5 +51,14 @@
     }
   ],
   "obsidian-completr:completr-fake-tab": [],
-  "obsidian-completr:completr-insert-selected-suggestion": []
+  "obsidian-completr:completr-insert-selected-suggestion": [],
+  "workspace:new-tab": [],
+  "editor:insert-table": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ]
 }

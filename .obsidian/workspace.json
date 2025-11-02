@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "adf347be614a00da",
+        "id": "c90a27dbcc16500e",
         "type": "tabs",
         "children": [
           {
-            "id": "5b872c69bce7cc45",
+            "id": "db9ccbee58d7c3ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CFA2/241117 Equity.md",
+                "file": "CFA2/5-固定收益/52-无套利估值/Equilibrium Interest Model.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -24,39 +24,15 @@
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                  "unlinkedCollapsed": false
                 }
               },
               "icon": "lucide-file",
-              "title": "241117 Equity"
-            }
-          },
-          {
-            "id": "db11d61dc7c3bf23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CFA2/0-股权/02-分红折现模型/020-分红折现模型-目录.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "020-分红折现模型-目录"
+              "title": "Equilibrium Interest Model"
             }
           }
         ],
-        "currentTab": 1
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -68,7 +44,6 @@
       {
         "id": "a2e1cc24f2357ca1",
         "type": "tabs",
-        "dimension": 75.96153846153847,
         "children": [
           {
             "id": "bfcff63ff21d2678",
@@ -89,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "DDM",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,16 +84,33 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          }
-        ]
-      },
-      {
-        "id": "8dae6152e2ace8d4",
-        "type": "tabs",
-        "dimension": 24.038461538461537,
-        "children": [
+          },
           {
-            "id": "20f490b882bd84a6",
+            "id": "15645966ee4997d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CFA2/3-量化/35-时间序列分析/Mean Reversion.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Mean Reversion"
+            }
+          },
+          {
+            "id": "4fa5f2f8ea704aef",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -131,7 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.5
+    "width": 385.5
   },
   "right": {
     "id": "e0728eca44de90e9",
@@ -142,12 +134,21 @@
         "type": "tabs",
         "children": [
           {
+            "id": "0964dc9b3d8c63f8",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
             "id": "95625edf04a506f2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CFA2/241112 Alternative Investment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +158,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 241112 Alternative Investment"
+              "title": "Backlinks"
             }
           },
           {
@@ -166,12 +167,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CFA2/241112 Alternative Investment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 241112 Alternative Investment"
+              "title": "Outgoing links"
             }
           },
           {
@@ -181,7 +181,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -193,18 +195,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CFA2/241112 Alternative Investment.md"
+                "file": "CFA2/4-投资组合管理/42-主动基金管理分析/42000-投资组合管理-主动基金管理分析.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 241112 Alternative Investment"
+              "title": "Outline of 42000-投资组合管理-主动基金管理分析"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 314.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,58 +220,59 @@
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
       "omnisearch:Omnisearch": false,
-      "header-adjuster:Adjust Headers": false
+      "header-adjuster:Adjust Headers": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "156c1d3ad9d43706",
+  "active": "db9ccbee58d7c3ac",
   "lastOpenFiles": [
-    "CFA2/0-股权/01-股权定价基础/Alpha.md",
-    "CFA2/0-股权/02-分红折现模型/020-分红折现模型-目录.md",
-    "CFA2/0-股权/00-股权-目录.md",
-    "CFA2/0-股权/01-股权定价基础/公司间通用的战略.md",
-    "CFA2/241112 Alternative Investment.md",
-    "CFA2/经济学/经济学-汇率-货币财政政策.md",
-    "CFA2/经济学/241111 Economics.md",
-    "CFA2/经济学/00-经济学-汇率-目录.md",
-    "CFA2/241102 Fixed Income Review.md",
     "CFA2/241103 Derivatives.md",
-    "CFA2/0-股权/01-股权定价基础/波特五力模型.md",
-    "CFA2/0-股权/01-股权定价基础/波特五力模型(2).md",
-    "CFA2/0-股权/01-股权定价基础/010-股权-股权定价基础-目录.md",
-    "CFA2/241117 Equity.md",
-    "CFA2/241116 Quantitative.md",
-    "CFA2/经济学/CFA-Economics.md",
-    "CFA2/0-股权/02-分红折现模型",
+    "CFA2/5-固定收益/52-无套利估值/Equilibrium Interest Model.md",
+    "CFA2/241102 Fixed Income Review.md",
+    "CFA2/5-固定收益/50-固定收益-目录.md",
+    "CFA2/5-固定收益/52-无套利估值/52000-固定收益-无套利估值-大纲.md",
+    "CFA2/241112 Alternative Investment.md",
     "CFA2/CFA二级大纲.md",
     "CFA2/ETF.md",
-    "CFA2/经济学/Economics - Currency Exchange.md",
-    "CFA2/CFA Quantitative.md",
+    "CFA2/5-固定收益/52-无套利估值/Ho–Lee model.md",
+    "CFA2/5-固定收益/52-无套利估值/Cox-Ingersoll-Ross Model.md",
+    "CFA2/5-固定收益/52-无套利估值/Vasicek Model.md",
+    "CFA2/4-投资组合管理/42-主动基金管理分析/42000-投资组合管理-主动基金管理分析.md",
+    "%eval.md",
     "CFA2/MRR - OIS Spread.md",
-    "CFA2/Quant - Evaluation & Interpretation Model Fit.md",
-    "波特五力模型(1).md",
-    "CFA2/0-股权/01-股权定价基础",
-    "CFA2/0-股权",
-    "CFA2/经济学",
-    "Convertible Bond.md",
-    "240227.md",
-    "240301.md",
-    "Untitled.base",
-    "Pasted image 20240425004901.png",
-    "Pasted image 20240523154355.png",
-    "Pasted image 20240425145439.png",
-    "Pasted image 20240526101101.png",
+    "CFA2/4-投资组合管理/40-投资组合管理-目录.md",
+    "《怎么办》.md",
+    "《19世纪末西方国家的“大繁荣”和“大萧条”》.md",
+    "240215.md",
+    "CFA2/3-量化/33-模型错误/Breusch-Godfrey Test.md",
+    "面试准备.md",
+    "I-Spread.md",
+    "Equity Index Forward.md",
+    "Z-Spread.md",
+    "CFA2/5-固定收益/52-无套利估值/Arbitrage-Free Interest Model.md",
+    "Kalotay-Williams-Fabozzi Model.md",
+    "CFA2/5-固定收益/52-无套利估值",
+    "CFA2/2-经济学/CFA-Economics.md",
+    "CFA2/5-固定收益",
+    "Untitled",
+    "CFA2/4-投资组合管理/46-回测与模拟",
+    "CFA2/4-投资组合管理/45-市场风险管控",
+    "CFA2/4-投资组合管理/44-多因子模型",
+    "CFA2/4-投资组合管理/43-ETF",
+    "CFA2/4-投资组合管理/42-主动基金管理分析",
+    "Untitled 1.base",
+    "Untitled.canvas",
+    "CFA2/4-投资组合管理/Untitled/Untitled",
     "Pasted image 20240526101543.png",
     "Pasted image 20241103232555.png",
-    "CFA2",
+    "Pasted image 20240425103412.png",
+    "Pasted image 20240425145439.png",
     "Pasted image 20240526104523.png",
     "Pasted image 20240425152132.png",
+    "Pasted image 20240425004901.png",
+    "Pasted image 20240523154355.png",
+    "Pasted image 20240526101101.png",
     "Pasted image 20240425152136.png",
-    "Pasted image 20240425103412.png",
-    "Untitled.canvas",
-    "MFM702",
-    "MFM714.zip",
-    "Untitled 1",
-    "SAS",
     "Untitled 1.canvas"
   ]
 }

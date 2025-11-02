@@ -1,4 +1,4 @@
-# [[CFA Quantitative|Quantitative]]
+# [[30-量化-目录|Quantitative]]
 
 # [[CFA-Economics|Economics]]
 ## [[Economics - Currency Exchange|Currency Exchange]]
@@ -11,7 +11,7 @@
 ## Foreign Subsidiary
 ## Valuatation of Financial Institutions
 
-# Equity
+# [[00-股权-目录|Equity]]
 ## Valuation Basics
 ## Discounted Dividend Valuation
 ## Free Cash Flow Valuation
@@ -19,13 +19,13 @@
 ## Residual-Based Valuation
 ## Private Company Valuation
 
-# Fixed Income
+# [[50-固定收益-目录|Fixed Income]]
 ## Term Structure & Interest Rate
 ## Arbitrage-Free Valuation
 ## Option-Embedded Valuation
 ## Credit Analysis Model
 ## Credit Default Swap
-# Ethnics
++# Ethnics
 # Corporate Issuer
 ## Dividends & Stock Repurchase
 ## ESG Considerations
@@ -38,10 +38,10 @@
 # Derivatives
 ## Pricing and Valuation of Forward Commitments
 ## Valuation of Contingent Claims
-# Portfolio Management
-## Exchange-Traded Funds
-## Multi Factor Models
+# [[40-投资组合管理-目录|Portfolio Management]]
+## [[41-经济和投资市场-大纲|Economics and Investment Market]]
+## Analysis of Portfolio Management
+## [[Exchange-Traded Funds]]
+## MultiFactor Models
 ## Measure & Manage Market Risk
 ## Backtesting & Simulation
-## Economics and investment Market
-## Analysis of Portfolio Management
