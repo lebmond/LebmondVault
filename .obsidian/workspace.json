@@ -4,94 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c90a27dbcc16500e",
+        "id": "adb2a6b6f7020448",
         "type": "tabs",
         "children": [
           {
-            "id": "db9ccbee58d7c3ac",
+            "id": "7706a3cb5010cf4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CFA2/5-固定收益/52-无套利估值/Equilibrium Interest Model.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Equilibrium Interest Model"
-            }
-          }
-        ],
-        "stacked": true
-      }
-    ],
-    "direction": "vertical"
-  },
-  "left": {
-    "id": "bd7f7c3c26080316",
-    "type": "split",
-    "children": [
-      {
-        "id": "a2e1cc24f2357ca1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bfcff63ff21d2678",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "af2bde1289889eac",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": true,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
-            "id": "53da6c98488c6339",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "15645966ee4997d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CFA2/3-量化/35-时间序列分析/Mean Reversion.md",
+                "file": "CFA2/2-经济学/21-汇率/21000-经济学-汇率-目录.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -106,11 +28,89 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mean Reversion"
+              "title": "21000-经济学-汇率-目录"
             }
           },
           {
-            "id": "4fa5f2f8ea704aef",
+            "id": "07b9bdc016776445",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CFA2/2-经济学/21-汇率/Pure Monetary Approach.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Pure Monetary Approach"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bd7f7c3c26080316",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a4193085484bf98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d9f0db283533c5d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8e8b6213e9ccf1d3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "spread",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "76084d10fba384af",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "045df1b83a3644e8",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -195,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CFA2/4-投资组合管理/42-主动基金管理分析/42000-投资组合管理-主动基金管理分析.md",
+                "file": "CFA2/4-投资组合管理/43-ETF/43000-投资组合管理-ETF.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 42000-投资组合管理-主动基金管理分析"
+              "title": "Outline of 43000-投资组合管理-ETF"
             }
           }
         ]
@@ -224,45 +224,45 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "db9ccbee58d7c3ac",
+  "active": "7706a3cb5010cf4a",
   "lastOpenFiles": [
-    "CFA2/241103 Derivatives.md",
-    "CFA2/5-固定收益/52-无套利估值/Equilibrium Interest Model.md",
-    "CFA2/241102 Fixed Income Review.md",
-    "CFA2/5-固定收益/50-固定收益-目录.md",
-    "CFA2/5-固定收益/52-无套利估值/52000-固定收益-无套利估值-大纲.md",
-    "CFA2/241112 Alternative Investment.md",
-    "CFA2/CFA二级大纲.md",
-    "CFA2/ETF.md",
-    "CFA2/5-固定收益/52-无套利估值/Ho–Lee model.md",
-    "CFA2/5-固定收益/52-无套利估值/Cox-Ingersoll-Ross Model.md",
+    "CFA2/2-经济学/21-汇率/Pure Monetary Approach.md",
+    "CFA2/2-经济学/21-汇率/21000-经济学-汇率-目录.md",
+    "CFA2/2-经济学/21-汇率/Dornbusch Exchange Rate Overshooting Model.md",
+    "CFA2/2-经济学/21-汇率/Monetary Models.md",
+    "CFA2/2-经济学/20-经济学-目录.md",
+    "Portfolio Balance Approach.md",
+    "CFA2/2-经济学/21-汇率/The Mundell–Fleming Model.md",
+    "CFA2/2-经济学/21-汇率/Relative Purchase Power Parity.md",
+    "CFA2/2-经济学/241111 Economics.md",
     "CFA2/5-固定收益/52-无套利估值/Vasicek Model.md",
-    "CFA2/4-投资组合管理/42-主动基金管理分析/42000-投资组合管理-主动基金管理分析.md",
-    "%eval.md",
-    "CFA2/MRR - OIS Spread.md",
-    "CFA2/4-投资组合管理/40-投资组合管理-目录.md",
-    "《怎么办》.md",
-    "《19世纪末西方国家的“大繁荣”和“大萧条”》.md",
-    "240215.md",
-    "CFA2/3-量化/33-模型错误/Breusch-Godfrey Test.md",
-    "面试准备.md",
-    "I-Spread.md",
-    "Equity Index Forward.md",
-    "Z-Spread.md",
+    "CFA2/5-固定收益/50-固定收益-目录.md",
+    "CFA2/5-固定收益/52-无套利估值/Ho–Lee model.md",
     "CFA2/5-固定收益/52-无套利估值/Arbitrage-Free Interest Model.md",
-    "Kalotay-Williams-Fabozzi Model.md",
+    "240304.md",
+    "CFA2/CFA二级大纲.md",
+    "CFA2/5-固定收益/52-无套利估值/Cox-Ingersoll-Ross Model.md",
+    "CFA2/5-固定收益/51-利率曲线动力学/Swap Spread.md",
+    "CFA2/5-固定收益/51-利率曲线动力学/51000-固定收益-利率曲线动力学-大纲.md",
+    "CFA2/5-固定收益/51-利率曲线动力学/TED Spread.md",
+    "CFA2/5-固定收益/52-无套利估值/52000-固定收益-无套利估值-大纲.md",
+    "CFA2/241103 Derivatives.md",
+    "CFA2/241112 Alternative Investment.md",
+    "CFA2/2-经济学/Economics - Currency Exchange.md",
+    "CFA2/5-固定收益/52-无套利估值/Equilibrium Interest Model.md",
+    "CFA2/2-经济学/21-汇率",
+    "240805.md",
+    "CFA2/5-固定收益/51-利率曲线动力学",
+    "CFA2/241102 Fixed Income Review.md",
+    "Untitled 2.base",
+    "Untitled 5.base",
+    "Untitled 4.base",
+    "Untitled 3.base",
+    "CFA2/6-另类投资/61-大宗商品及其衍生品",
+    "CFA2/6-另类投资",
     "CFA2/5-固定收益/52-无套利估值",
-    "CFA2/2-经济学/CFA-Economics.md",
     "CFA2/5-固定收益",
-    "Untitled",
-    "CFA2/4-投资组合管理/46-回测与模拟",
-    "CFA2/4-投资组合管理/45-市场风险管控",
-    "CFA2/4-投资组合管理/44-多因子模型",
-    "CFA2/4-投资组合管理/43-ETF",
-    "CFA2/4-投资组合管理/42-主动基金管理分析",
-    "Untitled 1.base",
     "Untitled.canvas",
-    "CFA2/4-投资组合管理/Untitled/Untitled",
     "Pasted image 20240526101543.png",
     "Pasted image 20241103232555.png",
     "Pasted image 20240425103412.png",

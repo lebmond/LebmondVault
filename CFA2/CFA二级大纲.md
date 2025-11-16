@@ -1,6 +1,6 @@
 # [[30-量化-目录|Quantitative]]
 
-# [[CFA-Economics|Economics]]
+# [[20-经济学-目录|Economics]]
 ## [[Economics - Currency Exchange|Currency Exchange]]
 ## Economic Growth
 ## Economics of Regulation
@@ -30,7 +30,7 @@
 ## Dividends & Stock Repurchase
 ## ESG Considerations
 ## Cost of Capital
-# Alternative Investment
+# [[60-另类投资-目录|Alternative Investment]]
 ## Commodity 
 ## Overview of Types of Real Estate Investment
 ## Publicly Traded RE Securities

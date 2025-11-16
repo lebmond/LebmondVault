@@ -187,6 +187,8 @@ Discounted
 Dividend
 Dividends
 Drift
+Dornbusch
+Decomposition
 tags
 the
 target
@@ -539,6 +541,7 @@ Goodwill
 Gbl
 GJu
 Godfrey
+Girnold
 Introduction
 Inverse
 If
@@ -879,6 +882,8 @@ Bid
 Benefits
 Basics
 Backtesting
+Basis
+Brent
 of
 oligopolies
 or
@@ -1352,6 +1357,8 @@ Consequently
 CIR
 Constant
 Contracts
+CTA
+Compared
 not
 notes
 note
@@ -1962,6 +1969,8 @@ inconsistent
 indeed
 inefficiency
 interpolation
+indicates
+induced
 Mandate
 Main
 Monetary
@@ -2149,6 +2158,7 @@ Multicolinearity
 Mispecification
 MultiFactor
 Mean
+Monitoring
 promote
 pegged
 potential
@@ -2456,6 +2466,10 @@ pooled
 providers
 precisely
 permits
+periodic
+percent
+purchasing
+parity
 economic
 exchange
 efficient
@@ -2735,6 +2749,7 @@ estimated
 explanatory
 export
 equilibrium
+explanation
 and
 are
 approved
@@ -3021,6 +3036,8 @@ affected
 adjustment
 ask
 active
+accurately
+aggregate
 financial
 flexible
 finacial
@@ -3236,6 +3253,8 @@ futures
 farther
 frame
 fewer
+foreign
+forces
 well
 withdraw
 was
@@ -3572,6 +3591,7 @@ backwardation
 benefits
 bear
 brokerage
+bill
 Five
 Functions
 Financial
@@ -3946,6 +3966,7 @@ Pagan
 Participant
 Publicly
 Permit
+Projects
 using
 under
 uses
@@ -4527,6 +4548,11 @@ corrected
 consume
 corporate
 compensation
+chronological
+closure
+competition
+callable
+calendar
 rate
 risk
 relationship
@@ -4813,6 +4839,9 @@ remainder
 receiving
 reverting
 reversion
+runs
+rarely
+realistic
 system
 stable
 security
@@ -5206,6 +5235,9 @@ specification
 stat
 serial
 statistics
+shut
+slack
+shortcomings
 designing
 distributing
 distribution
@@ -5506,6 +5538,7 @@ depending
 described
 depedent
 describes
+diversification
 management
 majority
 money
@@ -5750,6 +5783,8 @@ matures
 minimal
 maintenance
 makers
+multiplied
+medium
 Retail
 Role
 Risks
@@ -5930,6 +5965,7 @@ Riding
 REIT
 Repurchase
 Reverting
+Rudiger
 Supervision
 Supply
 Stablecoins
@@ -6179,6 +6215,7 @@ Subsidiary
 Stock
 Simulation
 Sharpe
+Swaps
 Oversee
 Owning
 Other
@@ -6331,6 +6368,7 @@ Ordinary
 Office
 Operation
 Often
+Overshooting
 value
 verify
 values
@@ -6478,6 +6516,7 @@ vtvQo
 volume
 valuation
 violations
+views
 ledger
 lives
 losses
@@ -6694,6 +6733,7 @@ likelihood
 longers
 lease
 lagged
+longs
 The
 Two
 Takeaway
@@ -6859,6 +6899,9 @@ Theory
 Theories
 Traded
 Tree
+Total
+TRS
+Table
 Advantages
 Altcoin
 An
@@ -7051,6 +7094,7 @@ Autocorrelation
 Assumption
 Arbitrageurs
 AKA
+Assuming
 Wiped
 Widespread
 Without
@@ -7196,6 +7240,9 @@ Who
 Warehouse
 White
 Watson
+WECO
+World
+WTI
 ETF
 Ether
 ECN
@@ -7371,6 +7418,7 @@ Economics
 Employee
 Embedded
 Ethnics
+ERS
 yield
 young
 year
@@ -7666,6 +7714,7 @@ heteroscedasticity
 habits
 hedgers
 heteroskedasticity
+holds
 Never
 No
 Need
@@ -8083,6 +8132,7 @@ Kb
 KMV
 KMF
 KWF
+Kroner
 Variable
 Value
 VaR
