@@ -1,12 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "02000-股权-分红折现模型-大纲",
+      "path": "CFA2/0-股权/02-分红折现模型/02000-股权-分红折现模型-大纲.md"
+    },
+    {
+      "basename": "00-股权-目录",
+      "path": "CFA2/0-股权/00-股权-目录.md"
+    },
+    {
+      "basename": "241117 Equity",
+      "path": "CFA2/0-股权/241117 Equity.md"
+    },
+    {
+      "basename": "H Model",
+      "path": "CFA2/0-股权/02-分红折现模型/H Model.md"
+    },
+    {
+      "basename": "Clean Surplus Relation",
+      "path": "CFA2/0-股权/02-分红折现模型/Clean Surplus Relation.md"
+    },
+    {
+      "basename": "Sustainable Growth Rate",
+      "path": "CFA2/0-股权/02-分红折现模型/Sustainable Growth Rate.md"
+    },
+    {
+      "basename": "01000-股权-股权定价基础-大纲",
+      "path": "CFA2/0-股权/01-股权定价基础/01000-股权-股权定价基础-大纲.md"
+    },
+    {
+      "basename": "060-股权-私有股权估值-大纲",
+      "path": "CFA2/0-股权/06-私有股权估值/060-股权-私有股权估值-大纲.md"
+    },
+    {
       "basename": "21000-经济学-汇率-目录",
       "path": "CFA2/2-经济学/21-汇率/21000-经济学-汇率-目录.md"
     },
     {
+      "basename": "241103 Derivatives",
+      "path": "CFA2/241103 Derivatives.md"
+    },
+    {
       "basename": "Pure Monetary Approach",
       "path": "CFA2/2-经济学/21-汇率/Pure Monetary Approach.md"
+    },
+    {
+      "basename": "240304",
+      "path": "240304.md"
     },
     {
       "basename": "Dornbusch Exchange Rate Overshooting Model",
@@ -53,10 +93,6 @@
       "path": "CFA2/5-固定收益/52-无套利估值/Arbitrage-Free Interest Model.md"
     },
     {
-      "basename": "240304",
-      "path": "240304.md"
-    },
-    {
       "basename": "CFA二级大纲",
       "path": "CFA2/CFA二级大纲.md"
     },
@@ -79,10 +115,6 @@
     {
       "basename": "52000-固定收益-无套利估值-大纲",
       "path": "CFA2/5-固定收益/52-无套利估值/52000-固定收益-无套利估值-大纲.md"
-    },
-    {
-      "basename": "241103 Derivatives",
-      "path": "CFA2/241103 Derivatives.md"
     },
     {
       "basename": "241112 Alternative Investment",
@@ -123,10 +155,6 @@
     {
       "basename": "Untitled 2",
       "path": "Untitled 2.base"
-    },
-    {
-      "basename": "H Model",
-      "path": "CFA2/0-股权/02-分红折现模型/H Model.md"
     },
     {
       "basename": "Calendar Spread",
@@ -171,34 +199,6 @@
     {
       "basename": "240319",
       "path": "240319.md"
-    },
-    {
-      "basename": "60-另类投资-目录",
-      "path": "CFA2/6-另类投资/60-另类投资-目录.md"
-    },
-    {
-      "basename": "Common Equity Tier 1 Capital",
-      "path": "Common Equity Tier 1 Capital.md"
-    },
-    {
-      "basename": "Market Spread",
-      "path": "Market Spread.md"
-    },
-    {
-      "basename": "MFM712",
-      "path": "MFM712.md"
-    },
-    {
-      "basename": "30-量化-目录",
-      "path": "CFA2/3-量化/30-量化-目录.md"
-    },
-    {
-      "basename": "工人苏维埃",
-      "path": "工人苏维埃.md"
-    },
-    {
-      "basename": "妥协主义",
-      "path": "妥协主义.md"
     }
   ],
   "omittedPaths": [],

@@ -189,6 +189,10 @@ Dividends
 Drift
 Dornbusch
 Decomposition
+DDM
+DuPont
+Depreciation
+Disadvantage
 tags
 the
 target
@@ -412,6 +416,8 @@ themselves
 theory
 tenant
 tenor
+team
+transparent
 GuestLecture
 Government
 Given
@@ -542,6 +548,7 @@ Gbl
 GJu
 Godfrey
 Girnold
+Gordon
 Introduction
 Inverse
 If
@@ -726,6 +733,9 @@ Inappropriate
 Influence
 Inter
 Institutions
+Intrinsic
+Industry
+Inputs
 Bank
 Business
 Bitcoin
@@ -1089,6 +1099,8 @@ offset
 observing
 obtained
 owner
+observable
+obtainable
 Canada
 Canadians
 Currency
@@ -1359,6 +1371,10 @@ Constant
 Contracts
 CTA
 Compared
+Clean
+Conceptually
+Comprehensive
+Complex
 not
 notes
 note
@@ -1682,6 +1698,7 @@ gWS
 gmG
 generating
 gence
+grows
 institution
 inflation
 issuing
@@ -1971,6 +1988,9 @@ inefficiency
 interpolation
 indicates
 induced
+indefinitely
+intrinsic
+intangibles
 Mandate
 Main
 Monetary
@@ -2159,6 +2179,9 @@ Mispecification
 MultiFactor
 Mean
 Monitoring
+Multistage
+MVA
+Mature
 promote
 pegged
 potential
@@ -2470,6 +2493,8 @@ periodic
 percent
 purchasing
 parity
+payout
+paying
 economic
 exchange
 efficient
@@ -3038,6 +3063,7 @@ ask
 active
 accurately
 aggregate
+abnormal
 financial
 flexible
 finacial
@@ -3402,6 +3428,7 @@ weight
 wpMv
 widely
 wider
+working
 being
 banknotes
 bank
@@ -3758,6 +3785,10 @@ Foreign
 Free
 Flow
 Fund
+FCFF
+Firm
+FCFE
+Financials
 Policy
 Payments
 Pros
@@ -3967,6 +3998,9 @@ Participant
 Publicly
 Permit
 Projects
+PRAT
+PVGO
+Post
 using
 under
 uses
@@ -4156,6 +4190,9 @@ unwilling
 unanticipated
 url
 unbiased
+unrealistic
+unobservable
+usable
 control
 combination
 cryptography
@@ -4553,6 +4590,7 @@ closure
 competition
 callable
 calendar
+contemporaneous
 rate
 risk
 relationship
@@ -4842,6 +4880,7 @@ reversion
 runs
 rarely
 realistic
+retention
 system
 stable
 security
@@ -5238,6 +5277,10 @@ statistics
 shut
 slack
 shortcomings
+sharholders
+span
+stands
+shareholder
 designing
 distributing
 distribution
@@ -5539,6 +5582,8 @@ described
 depedent
 describes
 diversification
+debtholders
+dividend
 management
 majority
 money
@@ -5785,6 +5830,7 @@ maintenance
 makers
 multiplied
 medium
+minority
 Retail
 Role
 Risks
@@ -6216,6 +6262,13 @@ Stock
 Simulation
 Sharpe
 Swaps
+SGR
+Sustainable
+Sale
+Single
+Stage
+Strength
+Statements
 Oversee
 Owning
 Other
@@ -6369,6 +6422,7 @@ Office
 Operation
 Often
 Overshooting
+OCI
 value
 verify
 values
@@ -6517,6 +6571,7 @@ volume
 valuation
 violations
 views
+variations
 ledger
 lives
 losses
@@ -6734,6 +6789,7 @@ longers
 lease
 lagged
 longs
+liquidation
 The
 Two
 Takeaway
@@ -6902,6 +6958,9 @@ Tree
 Total
 TRS
 Table
+Turnover
+Tax
+Transparency
 Advantages
 Altcoin
 An
@@ -7095,6 +7154,13 @@ Assumption
 Arbitrageurs
 AKA
 Assuming
+Available
+Advantage
+Added
+Ante
+Aspects
+Affecting
+Analyst
 Wiped
 Widespread
 Without
@@ -7243,6 +7309,8 @@ Watson
 WECO
 World
 WTI
+WACC
+Weakness
 ETF
 Ether
 ECN
@@ -7715,6 +7783,8 @@ habits
 hedgers
 heteroskedasticity
 holds
+holders
+heavy
 Never
 No
 Need
@@ -7856,6 +7926,8 @@ Normal
 Null
 NAVPS
 Negative
+NOPAT
+Needs
 Lack
 Longer
 Lean
@@ -8014,6 +8086,7 @@ Linear
 Lee
 Lag
 Lognormal
+Leading
 Key
 Kernel
 Kullback
@@ -8488,6 +8561,7 @@ QOi
 Qvx
 Quoted
 Quant
+Qualitative
 Unlike
 Used
 Unexpected
@@ -8616,6 +8690,8 @@ Under
 Unbiased
 Usually
 Unconditional
+Unreliable
+Undervalues
 kurtosis
 keeping
 keep
