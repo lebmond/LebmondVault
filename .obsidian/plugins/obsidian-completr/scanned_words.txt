@@ -1372,6 +1372,8 @@ CTA
 Compared
 Convertible
 Combinations
+Carrying
+Costs
 not
 notes
 note
@@ -1988,6 +1990,7 @@ induced
 indiversifiable
 includes
 identifiable
+initiated
 Mandate
 Main
 Monetary
@@ -5274,6 +5277,8 @@ slack
 shortcomings
 susceptible
 shared
+simplicity
+shorted
 designing
 distributing
 distribution
@@ -5575,6 +5580,7 @@ described
 depedent
 describes
 diversification
+dividend
 management
 majority
 money
@@ -6559,6 +6565,7 @@ volume
 valuation
 violations
 views
+valuated
 ledger
 lives
 losses
@@ -6776,6 +6783,7 @@ longers
 lease
 lagged
 longs
+longed
 The
 Two
 Takeaway
@@ -7141,6 +7149,7 @@ Associates
 Amortized
 Available
 Associate
+Agreement
 Wiped
 Widespread
 Without

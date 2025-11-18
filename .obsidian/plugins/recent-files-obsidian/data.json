@@ -1,8 +1,92 @@
 {
   "recentFiles": [
     {
+      "basename": "71000-衍生品-Forward Commitment-大纲",
+      "path": "CFA2/7-衍生品/71-Forward Commitment/71000-衍生品-Forward Commitment-大纲.md"
+    },
+    {
+      "basename": "Currency Swap",
+      "path": "CFA2/7-衍生品/71-Forward Commitment/Currency Swap.md"
+    },
+    {
+      "basename": "Equity Swap",
+      "path": "CFA2/7-衍生品/71-Forward Commitment/Equity Swap.md"
+    },
+    {
+      "basename": "Forward Rate Agreement",
+      "path": "CFA2/7-衍生品/71-Forward Commitment/Forward Rate Agreement.md"
+    },
+    {
+      "basename": "Equity Index Forward",
+      "path": "CFA2/7-衍生品/71-Forward Commitment/Equity Index Forward.md"
+    },
+    {
+      "basename": "241103 Derivatives",
+      "path": "CFA2/7-衍生品/241103 Derivatives.md"
+    },
+    {
+      "basename": "240302",
+      "path": "240302.md"
+    },
+    {
+      "basename": "240301",
+      "path": "240301.md"
+    },
+    {
+      "basename": "240227",
+      "path": "240227.md"
+    },
+    {
+      "basename": "240215",
+      "path": "240215.md"
+    },
+    {
+      "basename": "%SYMDEL",
+      "path": "%SYMDEL.md"
+    },
+    {
+      "basename": "240316",
+      "path": "240316.md"
+    },
+    {
+      "basename": "240318",
+      "path": "240318.md"
+    },
+    {
+      "basename": "240304",
+      "path": "240304.md"
+    },
+    {
+      "basename": "ETF",
+      "path": "CFA2/ETF.md"
+    },
+    {
+      "basename": "Cash-and-Carry Arbitrage",
+      "path": "Cash-and-Carry Arbitrage.md"
+    },
+    {
+      "basename": "241102 Fixed Income Review",
+      "path": "CFA2/241102 Fixed Income Review.md"
+    },
+    {
       "basename": "11000-财报分析-跨公司投资-大纲",
       "path": "CFA2/1-财报分析/11-跨公司投资/11000-财报分析-跨公司投资-大纲.md"
+    },
+    {
+      "basename": "241112 Alternative Investment",
+      "path": "CFA2/241112 Alternative Investment.md"
+    },
+    {
+      "basename": "《19世纪末西方国家的“大繁荣”和“大萧条”》",
+      "path": "《19世纪末西方国家的“大繁荣”和“大萧条”》.md"
+    },
+    {
+      "basename": "CFA二级大纲",
+      "path": "CFA2/CFA二级大纲.md"
+    },
+    {
+      "basename": "240922",
+      "path": "240922.md"
     },
     {
       "basename": "Net Margin Ratio",
@@ -13,40 +97,12 @@
       "path": "CFA2/1-财报分析/12-员工薪酬/02000-财报分析-员工薪酬-大纲.md"
     },
     {
-      "basename": "240922",
-      "path": "240922.md"
-    },
-    {
-      "basename": "241102 Fixed Income Review",
-      "path": "CFA2/241102 Fixed Income Review.md"
-    },
-    {
-      "basename": "241112 Alternative Investment",
-      "path": "CFA2/241112 Alternative Investment.md"
-    },
-    {
-      "basename": "CFA二级大纲",
-      "path": "CFA2/CFA二级大纲.md"
-    },
-    {
-      "basename": "ETF",
-      "path": "CFA2/ETF.md"
-    },
-    {
       "basename": "MRR - OIS Spread",
       "path": "CFA2/MRR - OIS Spread.md"
     },
     {
-      "basename": "《19世纪末西方国家的“大繁荣”和“大萧条”》",
-      "path": "《19世纪末西方国家的“大繁荣”和“大萧条”》.md"
-    },
-    {
       "basename": "%eval",
       "path": "%eval.md"
-    },
-    {
-      "basename": "240316",
-      "path": "240316.md"
     },
     {
       "basename": "240319",
@@ -113,36 +169,12 @@
       "path": "EVE.md"
     },
     {
-      "basename": "240215",
-      "path": "240215.md"
-    },
-    {
       "basename": "Central Counterparty",
       "path": "Central Counterparty.md"
     },
     {
-      "basename": "240318",
-      "path": "240318.md"
-    },
-    {
-      "basename": "240302",
-      "path": "240302.md"
-    },
-    {
-      "basename": "240227",
-      "path": "240227.md"
-    },
-    {
       "basename": "240216",
       "path": "240216.md"
-    },
-    {
-      "basename": "240301",
-      "path": "240301.md"
-    },
-    {
-      "basename": "240304",
-      "path": "240304.md"
     },
     {
       "basename": "《怎么办》",
@@ -167,38 +199,6 @@
     {
       "basename": "Equilibrium Interest Model",
       "path": "CFA2/5-固定收益/52-无套利估值/Equilibrium Interest Model.md"
-    },
-    {
-      "basename": "Kalotay-Williams-Fabozzi Model",
-      "path": "Kalotay-Williams-Fabozzi Model.md"
-    },
-    {
-      "basename": "Z-Spread",
-      "path": "Z-Spread.md"
-    },
-    {
-      "basename": "Intraday Liquidity Risk",
-      "path": "MFM714/Intraday Liquidity Risk.md"
-    },
-    {
-      "basename": "SUM",
-      "path": "SAS/SUM.md"
-    },
-    {
-      "basename": "Recap W4L1 Jan 29",
-      "path": "MFM714/Recap W4L1 Jan 29.md"
-    },
-    {
-      "basename": "联共(布)党史简明教程",
-      "path": "联共(布)党史简明教程.md"
-    },
-    {
-      "basename": "%sysfunc",
-      "path": "SAS/%sysfunc.md"
-    },
-    {
-      "basename": "Recap W1L2 Jan 10th",
-      "path": "MFM714/Recap W1L2 Jan 10th.md"
     }
   ],
   "omittedPaths": [],
