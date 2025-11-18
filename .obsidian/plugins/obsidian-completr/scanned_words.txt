@@ -189,6 +189,8 @@ Dividends
 Drift
 Dornbusch
 Decomposition
+Derivative
+Determination
 tags
 the
 target
@@ -412,6 +414,8 @@ themselves
 theory
 tenant
 tenor
+transaction
+taxes
 GuestLecture
 Government
 Given
@@ -542,6 +546,8 @@ Gbl
 GJu
 Godfrey
 Girnold
+Goal
+GAAP
 Introduction
 Inverse
 If
@@ -726,6 +732,8 @@ Inappropriate
 Influence
 Inter
 Institutions
+IFRS
+Ignore
 Bank
 Business
 Bitcoin
@@ -884,6 +892,7 @@ Basics
 Backtesting
 Basis
 Brent
+BSM
 of
 oligopolies
 or
@@ -1089,6 +1098,8 @@ offset
 observing
 obtained
 owner
+owned
+overstate
 Canada
 Canadians
 Currency
@@ -1359,6 +1370,8 @@ Constant
 Contracts
 CTA
 Compared
+Convertible
+Combinations
 not
 notes
 note
@@ -1682,6 +1695,7 @@ gWS
 gmG
 generating
 gence
+geometric
 institution
 inflation
 issuing
@@ -1971,6 +1985,9 @@ inefficiency
 interpolation
 indicates
 induced
+indiversifiable
+includes
+identifiable
 Mandate
 Main
 Monetary
@@ -2159,6 +2176,8 @@ Mispecification
 MultiFactor
 Mean
 Monitoring
+Maki
+Measurement
 promote
 pegged
 potential
@@ -2750,6 +2769,8 @@ explanatory
 export
 equilibrium
 explanation
+eliminated
+exchanged
 and
 are
 approved
@@ -3038,6 +3059,9 @@ ask
 active
 accurately
 aggregate
+accept
+amended
+aspects
 financial
 flexible
 finacial
@@ -3255,6 +3279,7 @@ frame
 fewer
 foreign
 forces
+frictionless
 well
 withdraw
 was
@@ -3402,6 +3427,7 @@ weight
 wpMv
 widely
 wider
+wide
 being
 banknotes
 bank
@@ -3758,6 +3784,7 @@ Foreign
 Free
 Flow
 Fund
+Fair
 Policy
 Payments
 Pros
@@ -3967,6 +3994,8 @@ Participant
 Publicly
 Permit
 Projects
+Previously
+Paid
 using
 under
 uses
@@ -4156,6 +4185,7 @@ unwilling
 unanticipated
 url
 unbiased
+unavoidable
 control
 combination
 cryptography
@@ -4553,6 +4583,8 @@ closure
 competition
 callable
 calendar
+continuous
+constraints
 rate
 risk
 relationship
@@ -4842,6 +4874,8 @@ reversion
 runs
 rarely
 realistic
+rewarded
+relies
 system
 stable
 security
@@ -5238,6 +5272,8 @@ statistics
 shut
 slack
 shortcomings
+susceptible
+shared
 designing
 distributing
 distribution
@@ -5966,6 +6002,8 @@ REIT
 Repurchase
 Reverting
 Rudiger
+Realized
+Revenue
 Supervision
 Supply
 Stablecoins
@@ -6216,6 +6254,9 @@ Stock
 Simulation
 Sharpe
 Swaps
+Such
+SMART
+Sale
 Oversee
 Owning
 Other
@@ -6369,6 +6410,7 @@ Office
 Operation
 Often
 Overshooting
+OCI
 value
 verify
 values
@@ -7095,6 +7137,10 @@ Assumption
 Arbitrageurs
 AKA
 Assuming
+Associates
+Amortized
+Available
+Associate
 Wiped
 Widespread
 Without
@@ -7856,6 +7902,7 @@ Normal
 Null
 NAVPS
 Negative
+Netflix
 Lack
 Longer
 Lean
@@ -8261,6 +8308,7 @@ Valuation
 Valuatation
 Vasicek
 Volatility
+Ventures
 jack
 just
 jobs
@@ -8616,6 +8664,8 @@ Under
 Unbiased
 Usually
 Unconditional
+Underlying
+Unrealized
 kurtosis
 keeping
 keep
@@ -8982,6 +9032,7 @@ Jw
 JOg
 JjH
 Job
+Joint
 question
 quickly
 quote
@@ -9105,6 +9156,7 @@ qpu
 quick
 quarters
 quoted
+qualitative
 Yankee
 York
 You

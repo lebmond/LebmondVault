@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CFA2/2-经济学/21-汇率/21000-经济学-汇率-目录.md",
+                "file": "CFA2/1-财报分析/11-跨公司投资/11000-财报分析-跨公司投资-大纲.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "21000-经济学-汇率-目录"
-            }
-          },
-          {
-            "id": "07b9bdc016776445",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CFA2/2-经济学/21-汇率/Pure Monetary Approach.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Pure Monetary Approach"
+              "title": "11000-财报分析-跨公司投资-大纲"
             }
           }
         ],
@@ -111,6 +87,16 @@
           },
           {
             "id": "045df1b83a3644e8",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "25cbe6dcec2d5e07",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -203,8 +189,19 @@
               "icon": "lucide-list",
               "title": "Outline of 43000-投资组合管理-ETF"
             }
+          },
+          {
+            "id": "8902222c329861b1",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -226,34 +223,35 @@
   },
   "active": "7706a3cb5010cf4a",
   "lastOpenFiles": [
-    "CFA2/2-经济学/21-汇率/Pure Monetary Approach.md",
-    "CFA2/2-经济学/21-汇率/21000-经济学-汇率-目录.md",
-    "CFA2/2-经济学/21-汇率/Dornbusch Exchange Rate Overshooting Model.md",
-    "CFA2/2-经济学/21-汇率/Monetary Models.md",
-    "CFA2/2-经济学/20-经济学-目录.md",
-    "Portfolio Balance Approach.md",
-    "CFA2/2-经济学/21-汇率/The Mundell–Fleming Model.md",
-    "CFA2/2-经济学/21-汇率/Relative Purchase Power Parity.md",
-    "CFA2/2-经济学/241111 Economics.md",
-    "CFA2/5-固定收益/52-无套利估值/Vasicek Model.md",
-    "CFA2/5-固定收益/50-固定收益-目录.md",
-    "CFA2/5-固定收益/52-无套利估值/Ho–Lee model.md",
-    "CFA2/5-固定收益/52-无套利估值/Arbitrage-Free Interest Model.md",
-    "240304.md",
-    "CFA2/CFA二级大纲.md",
-    "CFA2/5-固定收益/52-无套利估值/Cox-Ingersoll-Ross Model.md",
-    "CFA2/5-固定收益/51-利率曲线动力学/Swap Spread.md",
-    "CFA2/5-固定收益/51-利率曲线动力学/51000-固定收益-利率曲线动力学-大纲.md",
-    "CFA2/5-固定收益/51-利率曲线动力学/TED Spread.md",
-    "CFA2/5-固定收益/52-无套利估值/52000-固定收益-无套利估值-大纲.md",
-    "CFA2/241103 Derivatives.md",
-    "CFA2/241112 Alternative Investment.md",
-    "CFA2/2-经济学/Economics - Currency Exchange.md",
-    "CFA2/5-固定收益/52-无套利估值/Equilibrium Interest Model.md",
-    "CFA2/2-经济学/21-汇率",
-    "240805.md",
-    "CFA2/5-固定收益/51-利率曲线动力学",
+    "CFA2/1-财报分析/11-跨公司投资/Net Margin Ratio.md",
+    "CFA2/1-财报分析/11-跨公司投资/11000-财报分析-跨公司投资-大纲.md",
+    "CFA2/1-财报分析/12-员工薪酬/02000-财报分析-员工薪酬-大纲.md",
+    "240922.md",
     "CFA2/241102 Fixed Income Review.md",
+    "CFA2/241112 Alternative Investment.md",
+    "CFA2/CFA二级大纲.md",
+    "CFA2/ETF.md",
+    "CFA2/MRR - OIS Spread.md",
+    "CFA2/1-财报分析/11-跨公司投资",
+    "《19世纪末西方国家的“大繁荣”和“大萧条”》.md",
+    "%eval.md",
+    "240316.md",
+    "240319.md",
+    "240417.md",
+    "240426.md",
+    "240526.md",
+    "240627.md",
+    "240718.md",
+    "Theories of Commodity Future Returns.md",
+    "240820.md",
+    "250101.md",
+    "Additional Tier 1 Capital.md",
+    "Alternative Trading System.md",
+    "Black-Scholes-Merton Model.md",
+    "CAPM.md",
+    "Convertible Bond.md",
+    "CFA2/2-经济学/21-汇率",
+    "CFA2/5-固定收益/51-利率曲线动力学",
     "Untitled 2.base",
     "Untitled 5.base",
     "Untitled 4.base",
@@ -261,7 +259,6 @@
     "CFA2/6-另类投资/61-大宗商品及其衍生品",
     "CFA2/6-另类投资",
     "CFA2/5-固定收益/52-无套利估值",
-    "CFA2/5-固定收益",
     "Untitled.canvas",
     "Pasted image 20240526101543.png",
     "Pasted image 20241103232555.png",
