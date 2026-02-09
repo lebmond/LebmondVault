@@ -1,7 +1,9 @@
 描述了短期内,货币政策与财政政策对于本国货币价值及其与外国货币的汇率的影响
 The model focuses only on **aggregate demand** and assumes 
+[[Portfolio Balance Approach]] 是对其长期的补充.
+
  
- # Assumption
+# Assumption
  1. there is sufficient slack in the economy to allow increases in output without price level increases.
  2. 通货膨胀在此模型中无效,货币政策仅通过利率和总需求来影响汇率.这一点上和[[Monetary Models]]相反
 

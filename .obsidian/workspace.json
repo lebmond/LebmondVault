@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "adb2a6b6f7020448",
+        "id": "eadde9e7bb1e2df3",
         "type": "tabs",
         "children": [
           {
-            "id": "7706a3cb5010cf4a",
+            "id": "28fe7b4ac4431b19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CFA2/7-衍生品/71-Forward Commitment/Equity Swap.md",
+                "file": "证券行业从业资格考试.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Equity Swap"
-            }
-          },
-          {
-            "id": "0dd92862df8a0a03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CFA2/7-衍生品/71-Forward Commitment/71000-衍生品-Forward Commitment-大纲.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "71000-衍生品-Forward Commitment-大纲"
+              "title": "证券行业从业资格考试"
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -89,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "spread",
+                "query": "FCF",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,11 +105,12 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 385.5
+    "width": 286.5
   },
   "right": {
     "id": "e0728eca44de90e9",
@@ -229,7 +205,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 314.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,44 +222,44 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0dd92862df8a0a03",
+  "active": "28fe7b4ac4431b19",
   "lastOpenFiles": [
-    "CFA2/7-衍生品/71-Forward Commitment/Currency Swap.md",
-    "CFA2/7-衍生品/71-Forward Commitment/Equity Swap.md",
-    "CFA2/7-衍生品/71-Forward Commitment/71000-衍生品-Forward Commitment-大纲.md",
-    "CFA2/7-衍生品/71-Forward Commitment/Forward Rate Agreement.md",
-    "CFA2/7-衍生品/71-Forward Commitment/Equity Index Forward.md",
-    "CFA2/7-衍生品/241103 Derivatives.md",
-    "240302.md",
-    "240301.md",
-    "240227.md",
-    "240215.md",
-    "%SYMDEL.md",
-    "240316.md",
-    "240318.md",
-    "240304.md",
-    "CFA2/ETF.md",
-    "Cash-and-Carry Arbitrage.md",
-    "CFA2/241102 Fixed Income Review.md",
-    "CFA2/1-财报分析/11-跨公司投资/11000-财报分析-跨公司投资-大纲.md",
-    "CFA2/7-衍生品/71-Forward Commitment",
-    "CFA2/7-衍生品",
-    "CFA2/241112 Alternative Investment.md",
+    "摩尔线程定价报告.md",
+    "《怎么办》.md",
+    "证券行业从业资格考试.md",
+    "CFA2/0-股权/03-自由现金流折现模型/Working Capital Investment.md",
+    "CFA2/0-股权/04-剩余收益折现模型/04000-股权-剩余收益折现模型-大纲.md",
+    "Free Cashflow to Firm.md",
+    "Free Cashflow to Equity.md",
+    "CFA2/0-股权/06-私有股权估值/06000-股权-私有股权估值-大纲.md",
+    "CFA2/0-股权/03-自由现金流折现模型/03000-股权-自由现金流折现模型-大纲.md",
+    "CFA2/0-股权/00-股权-目录.md",
+    "CFA2/2-经济学/21-汇率/Dornbusch Exchange Rate Overshooting Model.md",
     "《19世纪末西方国家的“大繁荣”和“大萧条”》.md",
-    "CFA2/CFA二级大纲.md",
-    "240922.md",
-    "CFA2/1-财报分析/11-跨公司投资/Net Margin Ratio.md",
-    "CFA2/1-财报分析/12-员工薪酬/02000-财报分析-员工薪酬-大纲.md",
-    "CFA2/MRR - OIS Spread.md",
-    "CFA2/1-财报分析/11-跨公司投资",
+    "MFM714/Loss Given Default.md",
+    "CFA2/2-经济学/20-经济学-目录.md",
+    "MFM714/Correlation.md",
     "%eval.md",
-    "CFA2/2-经济学/21-汇率",
-    "CFA2/5-固定收益/51-利率曲线动力学",
-    "Untitled 2.base",
-    "Untitled 5.base",
-    "Untitled 4.base",
-    "Untitled 3.base",
-    "CFA2/6-另类投资/61-大宗商品及其衍生品",
+    "240215.md",
+    "MFM714/Recap W5L1 Feb 6.md",
+    "MFM714/Recap W6L1 Feb 12.md",
+    "MFM714/Recap W6L2 Feb 14.md",
+    "CFA2/2-经济学/241111 Economics.md",
+    "MFM714/ROE.md",
+    "CFA2/2-经济学/21-汇率/21000-经济学-汇率-目录.md",
+    "CFA2/2-经济学/21-汇率/Monetary Models.md",
+    "CFA2/2-经济学/21-汇率/Pure Monetary Approach.md",
+    "MFM714/Operational Risk.md",
+    "P",
+    "Untitled 10.base",
+    "CFA2/0-股权/05-相对价值估值法",
+    "Untitled 9.base",
+    "Untitled 8.base",
+    "Untitled 7.base",
+    "CFA2/0-股权/04-剩余收益折现模型",
+    "CFA2/6-另类投资/63-公开交易的房地产证券",
+    "Untitled 6.base",
+    "CFA2/7-衍生品/72-或有索取权的估值",
     "Untitled.canvas",
     "Pasted image 20240526101543.png",
     "Pasted image 20241103232555.png",

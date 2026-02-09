@@ -26,8 +26,8 @@
 ## Credit Analysis Model
 ## Credit Default Swap
 +# Ethnics
-# Corporate Issuer
-## Dividends & Stock Repurchase
+# [[80-公司发行人-目录|Corporate Issuer]]
+## [[81000-公司发行人-股息与股票回购-大纲|Dividends & Stock Repurchase]]
 ## ESG Considerations
 ## Cost of Capital
 # [[60-另类投资-目录|Alternative Investment]]
