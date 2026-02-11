@@ -433,6 +433,7 @@ transparent
 termination
 truncating
 types
+team
 GuestLecture
 Government
 Given
@@ -765,6 +766,7 @@ Independence
 Issues
 Ideal
 Intel
+Intrinsic
 Bank
 Business
 Bitcoin
@@ -1141,6 +1143,7 @@ outstanding
 overcollateralization
 obligator
 overcome
+observable
 Canada
 Canadians
 Currency
@@ -1432,6 +1435,8 @@ CUDA
 CapEx
 Comparative
 CPU
+Concatenation
+CATQ
 not
 notes
 note
@@ -2063,6 +2068,7 @@ ideal
 iterates
 incremental
 influences
+intrinsic
 Mandate
 Main
 Monetary
@@ -3157,6 +3163,7 @@ accept
 amended
 aspects
 attribute
+abnormal
 financial
 flexible
 finacial
@@ -3378,6 +3385,7 @@ frictionless
 fantastic
 fluctuate
 frequent
+feng
 well
 withdraw
 was
@@ -4123,6 +4131,7 @@ Putting
 Pre
 PPT
 PISI
+Post
 using
 under
 uses
@@ -4320,6 +4329,7 @@ universe
 unequal
 unsecured
 unknown
+unobservable
 control
 combination
 cryptography
@@ -4731,6 +4741,7 @@ causes
 constituent
 collateralized
 closer
+chu
 rate
 risk
 relationship
@@ -6472,6 +6483,7 @@ Similarly
 Seniority
 Security
 SoC
+String
 Oversee
 Owning
 Other
@@ -7177,6 +7189,7 @@ Threshold
 Transfer
 Therefore
 TPU
+Transparency
 Advantages
 Altcoin
 An
@@ -7383,6 +7396,10 @@ Annex
 Amount
 Actual
 AMD
+Ante
+Aspects
+Affecting
+Analyst
 Wiped
 Widespread
 Without
@@ -8811,6 +8828,7 @@ QOi
 Qvx
 Quoted
 Quant
+Qualitative
 Unlike
 Used
 Unexpected
@@ -9793,6 +9811,7 @@ zoi
 zMu
 zme
 zhengquanshi
+zhi
 xOA
 xX
 xv
@@ -9899,6 +9918,7 @@ xft
 xNT
 xuR
 xSz
+xian
 ZL
 ZA
 ZWi

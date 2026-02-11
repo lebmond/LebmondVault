@@ -1,96 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "证券行业从业资格考试",
-      "path": "证券行业从业资格考试.md"
+      "basename": "01-证券市场基本法律法规-目录",
+      "path": "证券行业从业/01-证券市场基本法律法规/01-证券市场基本法律法规-目录.md"
     },
     {
-      "basename": "摩尔线程定价报告",
-      "path": "摩尔线程定价报告.md"
+      "basename": "公司",
+      "path": "证券行业从业/01-证券市场基本法律法规/公司.md"
     },
     {
-      "basename": "《怎么办》",
-      "path": "《怎么办》.md"
+      "basename": "发起设立",
+      "path": "证券行业从业/01-证券市场基本法律法规/发起设立.md"
     },
     {
-      "basename": "Working Capital Investment",
-      "path": "CFA2/0-股权/03-自由现金流折现模型/Working Capital Investment.md"
+      "basename": "股份有限公司",
+      "path": "证券行业从业/01-证券市场基本法律法规/股份有限公司.md"
     },
     {
-      "basename": "04000-股权-剩余收益折现模型-大纲",
-      "path": "CFA2/0-股权/04-剩余收益折现模型/04000-股权-剩余收益折现模型-大纲.md"
+      "basename": "募集设立",
+      "path": "证券行业从业/01-证券市场基本法律法规/募集设立.md"
     },
     {
-      "basename": "Free Cashflow to Firm",
-      "path": "Free Cashflow to Firm.md"
+      "basename": "有限责任公司",
+      "path": "证券行业从业/01-证券市场基本法律法规/有限责任公司.md"
     },
     {
-      "basename": "Free Cashflow to Equity",
-      "path": "Free Cashflow to Equity.md"
+      "basename": "Untitled",
+      "path": "证券行业从业/01-证券市场基本法律法规/Untitled.md"
     },
     {
-      "basename": "06000-股权-私有股权估值-大纲",
-      "path": "CFA2/0-股权/06-私有股权估值/06000-股权-私有股权估值-大纲.md"
+      "basename": "The Mundell–Fleming Model",
+      "path": "CFA2/2-经济学/21-汇率/The Mundell–Fleming Model.md"
     },
     {
-      "basename": "03000-股权-自由现金流折现模型-大纲",
-      "path": "CFA2/0-股权/03-自由现金流折现模型/03000-股权-自由现金流折现模型-大纲.md"
+      "basename": "Relative Purchase Power Parity",
+      "path": "CFA2/2-经济学/21-汇率/Relative Purchase Power Parity.md"
     },
     {
       "basename": "00-股权-目录",
       "path": "CFA2/0-股权/00-股权-目录.md"
     },
     {
-      "basename": "Dornbusch Exchange Rate Overshooting Model",
-      "path": "CFA2/2-经济学/21-汇率/Dornbusch Exchange Rate Overshooting Model.md"
-    },
-    {
-      "basename": "《19世纪末西方国家的“大繁荣”和“大萧条”》",
-      "path": "《19世纪末西方国家的“大繁荣”和“大萧条”》.md"
-    },
-    {
-      "basename": "Loss Given Default",
-      "path": "MFM714/Loss Given Default.md"
-    },
-    {
-      "basename": "20-经济学-目录",
-      "path": "CFA2/2-经济学/20-经济学-目录.md"
-    },
-    {
-      "basename": "Correlation",
-      "path": "MFM714/Correlation.md"
-    },
-    {
-      "basename": "%eval",
-      "path": "%eval.md"
-    },
-    {
-      "basename": "240215",
-      "path": "240215.md"
-    },
-    {
-      "basename": "Recap W5L1 Feb 6",
-      "path": "MFM714/Recap W5L1 Feb 6.md"
-    },
-    {
-      "basename": "Recap W6L1 Feb 12",
-      "path": "MFM714/Recap W6L1 Feb 12.md"
-    },
-    {
-      "basename": "Recap W6L2 Feb 14",
-      "path": "MFM714/Recap W6L2 Feb 14.md"
-    },
-    {
-      "basename": "241111 Economics",
-      "path": "CFA2/2-经济学/241111 Economics.md"
-    },
-    {
-      "basename": "ROE",
-      "path": "MFM714/ROE.md"
-    },
-    {
       "basename": "21000-经济学-汇率-目录",
       "path": "CFA2/2-经济学/21-汇率/21000-经济学-汇率-目录.md"
+    },
+    {
+      "basename": "Dornbusch Exchange Rate Overshooting Model",
+      "path": "CFA2/2-经济学/21-汇率/Dornbusch Exchange Rate Overshooting Model.md"
     },
     {
       "basename": "Monetary Models",
@@ -101,92 +57,96 @@
       "path": "CFA2/2-经济学/21-汇率/Pure Monetary Approach.md"
     },
     {
-      "basename": "Operational Risk",
-      "path": "MFM714/Operational Risk.md"
+      "basename": "公司的设立",
+      "path": "公司的设立.md"
     },
     {
-      "basename": "Recap W2L1 Jan 15",
-      "path": "MFM714/Recap W2L1 Jan 15.md"
+      "basename": "241111 Economics",
+      "path": "CFA2/2-经济学/241111 Economics.md"
     },
     {
-      "basename": "Return",
-      "path": "MFM714/Return.md"
+      "basename": "241103 Derivatives",
+      "path": "CFA2/7-衍生品/241103 Derivatives.md"
     },
     {
-      "basename": "Gamma",
-      "path": "MFM714/Gamma.md"
+      "basename": "ETF",
+      "path": "CFA2/ETF.md"
     },
     {
-      "basename": "240216",
-      "path": "240216.md"
+      "basename": "Capital",
+      "path": "MFM714/Capital.md"
     },
     {
-      "basename": "240227",
-      "path": "240227.md"
+      "basename": "241102 Fixed Income Review",
+      "path": "CFA2/241102 Fixed Income Review.md"
     },
     {
-      "basename": "240301",
-      "path": "240301.md"
+      "basename": "《19世纪末西方国家的“大繁荣”和“大萧条”》",
+      "path": "《19世纪末西方国家的“大繁荣”和“大萧条”》.md"
     },
     {
-      "basename": "240302",
-      "path": "240302.md"
+      "basename": "01000-股权-股权定价基础-大纲",
+      "path": "CFA2/0-股权/01-股权定价基础/01000-股权-股权定价基础-大纲.md"
     },
     {
-      "basename": "%sysevalf",
-      "path": "%sysevalf.md"
+      "basename": "02000-股权-分红折现模型-大纲",
+      "path": "CFA2/0-股权/02-分红折现模型/02000-股权-分红折现模型-大纲.md"
     },
     {
-      "basename": "Reserve",
-      "path": "MFM714/Reserve.md"
+      "basename": "03000-股权-自由现金流折现模型-大纲",
+      "path": "CFA2/0-股权/03-自由现金流折现模型/03000-股权-自由现金流折现模型-大纲.md"
     },
     {
-      "basename": "Recap W7L1 Feb 26",
-      "path": "MFM714/Recap W7L1 Feb 26.md"
+      "basename": "11000-财报分析-跨公司投资-大纲",
+      "path": "CFA2/1-财报分析/11-跨公司投资/11000-财报分析-跨公司投资-大纲.md"
     },
     {
-      "basename": "Recap W4L2 Jan 31",
-      "path": "MFM714/Recap W4L2 Jan 31.md"
+      "basename": "20-经济学-目录",
+      "path": "CFA2/2-经济学/20-经济学-目录.md"
     },
     {
-      "basename": "Recap W4L1 Jan 29",
-      "path": "MFM714/Recap W4L1 Jan 29.md"
+      "basename": "Copula",
+      "path": "MFM714/Copula.md"
     },
     {
-      "basename": "Recap W3L2 Jan 24",
-      "path": "MFM714/Recap W3L2 Jan 24.md"
+      "basename": "Correlation",
+      "path": "MFM714/Correlation.md"
     },
     {
-      "basename": "Recap W3L1 Jan 22",
-      "path": "MFM714/Recap W3L1 Jan 22.md"
+      "basename": "Exchange",
+      "path": "MFM714/Exchange.md"
     },
     {
-      "basename": "Recap W1L2 Jan 10th",
-      "path": "MFM714/Recap W1L2 Jan 10th.md"
+      "basename": "CFA二级大纲",
+      "path": "CFA2/CFA二级大纲.md"
     },
     {
-      "basename": "Recap Credit Risk Modelling",
-      "path": "MFM714/Recap Credit Risk Modelling.md"
+      "basename": "证券市场法律法规体系的构成",
+      "path": "证券市场法律法规体系的构成.md"
     },
     {
-      "basename": "Probability of Default",
-      "path": "MFM714/Probability of Default.md"
+      "basename": "MRR - OIS Spread",
+      "path": "CFA2/MRR - OIS Spread.md"
     },
     {
-      "basename": "Merton Model",
-      "path": "MFM714/Merton Model.md"
+      "basename": "法律关系",
+      "path": "法律关系.md"
+    },
+    {
+      "basename": "法的特征",
+      "path": "法的特征.md"
     },
     {
       "basename": "Market Microsturcture",
       "path": "MFM714/Market Microsturcture.md"
     },
     {
-      "basename": "Joint Probability Default",
-      "path": "MFM714/Joint Probability Default.md"
+      "basename": "Loss Given Default",
+      "path": "MFM714/Loss Given Default.md"
     },
     {
-      "basename": "Intraday Liquidity Risk",
-      "path": "MFM714/Intraday Liquidity Risk.md"
+      "basename": "Joint Probability Default",
+      "path": "MFM714/Joint Probability Default.md"
     },
     {
       "basename": "Exposure At Default",
@@ -197,8 +157,48 @@
       "path": "MFM714/exposure.md"
     },
     {
-      "basename": "The Mundell–Fleming Model",
-      "path": "CFA2/2-经济学/21-汇率/The Mundell–Fleming Model.md"
+      "basename": "Gamma",
+      "path": "MFM714/Gamma.md"
+    },
+    {
+      "basename": "Intraday Liquidity Risk",
+      "path": "MFM714/Intraday Liquidity Risk.md"
+    },
+    {
+      "basename": "Merton Model",
+      "path": "MFM714/Merton Model.md"
+    },
+    {
+      "basename": "Operational Risk",
+      "path": "MFM714/Operational Risk.md"
+    },
+    {
+      "basename": "Probability of Default",
+      "path": "MFM714/Probability of Default.md"
+    },
+    {
+      "basename": "Recap Credit Risk Modelling",
+      "path": "MFM714/Recap Credit Risk Modelling.md"
+    },
+    {
+      "basename": "Recap W1L2 Jan 10th",
+      "path": "MFM714/Recap W1L2 Jan 10th.md"
+    },
+    {
+      "basename": "Recap W2L1 Jan 15",
+      "path": "MFM714/Recap W2L1 Jan 15.md"
+    },
+    {
+      "basename": "Recap W3L1 Jan 22",
+      "path": "MFM714/Recap W3L1 Jan 22.md"
+    },
+    {
+      "basename": "CALCULATED keyword",
+      "path": "SAS/CALCULATED keyword.md"
+    },
+    {
+      "basename": "Array",
+      "path": "SAS/Array.md"
     }
   ],
   "omittedPaths": [],
