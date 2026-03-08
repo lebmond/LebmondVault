@@ -1,44 +1,76 @@
 {
   "recentFiles": [
     {
-      "basename": "合伙企业",
-      "path": "证券行业从业/01-证券市场基本法律法规/合伙企业.md"
+      "basename": "证券公司的监督管理",
+      "path": "证券公司的监督管理.md"
+    },
+    {
+      "basename": "中华人民共和国证券法",
+      "path": "证券行业从业/01-证券市场基本法律法规/中华人民共和国证券法.md"
+    },
+    {
+      "basename": "HeadLine_240207",
+      "path": "Headline/HeadLine_240207.md"
+    },
+    {
+      "basename": "HeadLine_240131",
+      "path": "Headline/HeadLine_240131.md"
+    },
+    {
+      "basename": "HeadLine_240122",
+      "path": "Headline/HeadLine_240122.md"
+    },
+    {
+      "basename": "Guest Lecture on Insurance",
+      "path": "Guest Lecture on Insurance.md"
+    },
+    {
+      "basename": "36000-量化-机器学习-大纲",
+      "path": "CFA2/3-量化/36-机器学习/36000-量化-机器学习-大纲.md"
+    },
+    {
+      "basename": "《19世纪末西方国家的“大繁荣”和“大萧条”》",
+      "path": "《19世纪末西方国家的“大繁荣”和“大萧条”》.md"
+    },
+    {
+      "basename": "内幕交易",
+      "path": "证券行业从业/01-证券市场基本法律法规/内幕交易.md"
     },
     {
       "basename": "01-证券市场基本法律法规-目录",
       "path": "证券行业从业/01-证券市场基本法律法规/01-证券市场基本法律法规-目录.md"
     },
     {
-      "basename": "法的特征",
-      "path": "证券行业从业/01-证券市场基本法律法规/法的特征.md"
-    },
-    {
-      "basename": "有限责任公司",
-      "path": "证券行业从业/01-证券市场基本法律法规/有限责任公司.md"
+      "basename": "合规负责人",
+      "path": "证券行业从业/01-证券市场基本法律法规/合规负责人.md"
     },
     {
       "basename": "担保",
       "path": "证券行业从业/01-证券市场基本法律法规/担保.md"
     },
     {
-      "basename": "发起设立",
-      "path": "证券行业从业/01-证券市场基本法律法规/发起设立.md"
+      "basename": "操纵证券市场",
+      "path": "证券行业从业/01-证券市场基本法律法规/操纵证券市场.md"
     },
     {
-      "basename": "公司",
-      "path": "证券行业从业/01-证券市场基本法律法规/公司.md"
+      "basename": "证券公司",
+      "path": "证券行业从业/01-证券市场基本法律法规/证券公司.md"
     },
     {
-      "basename": "上市公司",
-      "path": "证券行业从业/01-证券市场基本法律法规/上市公司.md"
+      "basename": "有限合伙企业",
+      "path": "证券行业从业/01-证券市场基本法律法规/有限合伙企业.md"
     },
     {
-      "basename": "公司章程",
-      "path": "证券行业从业/01-证券市场基本法律法规/公司章程.md"
+      "basename": "董事会秘书",
+      "path": "证券行业从业/01-证券市场基本法律法规/董事会秘书.md"
     },
     {
       "basename": "公司财务会计制度的基本要求和内容",
       "path": "证券行业从业/01-证券市场基本法律法规/公司财务会计制度的基本要求和内容.md"
+    },
+    {
+      "basename": "公司章程",
+      "path": "证券行业从业/01-证券市场基本法律法规/公司章程.md"
     },
     {
       "basename": "公积金",
@@ -49,16 +81,104 @@
       "path": "证券行业从业/01-证券市场基本法律法规/募集设立.md"
     },
     {
-      "basename": "证券市场法律法规体系的构成",
-      "path": "证券行业从业/01-证券市场基本法律法规/证券市场法律法规体系的构成.md"
+      "basename": "发起设立",
+      "path": "证券行业从业/01-证券市场基本法律法规/发起设立.md"
+    },
+    {
+      "basename": "合伙企业",
+      "path": "证券行业从业/01-证券市场基本法律法规/合伙企业.md"
+    },
+    {
+      "basename": "董事会",
+      "path": "证券行业从业/01-证券市场基本法律法规/董事会.md"
+    },
+    {
+      "basename": "股份有限公司",
+      "path": "证券行业从业/01-证券市场基本法律法规/股份有限公司.md"
+    },
+    {
+      "basename": "监事会",
+      "path": "证券行业从业/01-证券市场基本法律法规/监事会.md"
+    },
+    {
+      "basename": "独立董事",
+      "path": "证券行业从业/01-证券市场基本法律法规/独立董事.md"
+    },
+    {
+      "basename": "法律关系",
+      "path": "证券行业从业/01-证券市场基本法律法规/法律关系.md"
+    },
+    {
+      "basename": "期货交易规则",
+      "path": "证券行业从业/01-证券市场基本法律法规/期货交易规则.md"
+    },
+    {
+      "basename": "有限责任公司",
+      "path": "证券行业从业/01-证券市场基本法律法规/有限责任公司.md"
+    },
+    {
+      "basename": "02-证券经营机构管理规范-目录",
+      "path": "证券行业从业/02-证券经营机构管理规范/02-证券经营机构管理规范-目录.md"
+    },
+    {
+      "basename": "上市公司",
+      "path": "证券行业从业/01-证券市场基本法律法规/上市公司.md"
+    },
+    {
+      "basename": "证券交易所",
+      "path": "证券交易所.md"
+    },
+    {
+      "basename": "清算人",
+      "path": "证券行业从业/01-证券市场基本法律法规/清算人.md"
+    },
+    {
+      "basename": "公司",
+      "path": "证券行业从业/01-证券市场基本法律法规/公司.md"
+    },
+    {
+      "basename": "期货",
+      "path": "证券行业从业/01-证券市场基本法律法规/期货.md"
     },
     {
       "basename": "质押",
       "path": "证券行业从业/01-证券市场基本法律法规/质押.md"
     },
     {
-      "basename": "《19世纪末西方国家的“大繁荣”和“大萧条”》",
-      "path": "《19世纪末西方国家的“大繁荣”和“大萧条”》.md"
+      "basename": "证券承销业务规定",
+      "path": "证券行业从业/01-证券市场基本法律法规/证券承销业务规定.md"
+    },
+    {
+      "basename": "证券市场法律法规体系的构成",
+      "path": "证券行业从业/01-证券市场基本法律法规/证券市场法律法规体系的构成.md"
+    },
+    {
+      "basename": "要约收购",
+      "path": "证券行业从业/01-证券市场基本法律法规/要约收购.md"
+    },
+    {
+      "basename": "法的特征",
+      "path": "证券行业从业/01-证券市场基本法律法规/法的特征.md"
+    },
+    {
+      "basename": "期货交易所",
+      "path": "证券行业从业/01-证券市场基本法律法规/期货交易所.md"
+    },
+    {
+      "basename": "Backwardation",
+      "path": "CFA2/6-另类投资/61-大宗商品及其衍生品/Backwardation.md"
+    },
+    {
+      "basename": "Contango",
+      "path": "Contango.md"
+    },
+    {
+      "basename": "公开发行",
+      "path": "公开发行.md"
+    },
+    {
+      "basename": "代销",
+      "path": "代销.md"
     },
     {
       "basename": "《怎么办》",
@@ -67,10 +187,6 @@
     {
       "basename": "%eval",
       "path": "%eval.md"
-    },
-    {
-      "basename": "法律关系",
-      "path": "证券行业从业/01-证券市场基本法律法规/法律关系.md"
     },
     {
       "basename": "%SYMDEL",
@@ -83,122 +199,6 @@
     {
       "basename": "240627",
       "path": "240627.md"
-    },
-    {
-      "basename": "240304",
-      "path": "240304.md"
-    },
-    {
-      "basename": "240718",
-      "path": "240718.md"
-    },
-    {
-      "basename": "240216",
-      "path": "240216.md"
-    },
-    {
-      "basename": "240215",
-      "path": "240215.md"
-    },
-    {
-      "basename": "监事会",
-      "path": "证券行业从业/01-证券市场基本法律法规/监事会.md"
-    },
-    {
-      "basename": "股份有限公司",
-      "path": "证券行业从业/01-证券市场基本法律法规/股份有限公司.md"
-    },
-    {
-      "basename": "董事会",
-      "path": "证券行业从业/01-证券市场基本法律法规/董事会.md"
-    },
-    {
-      "basename": "%sysevalf",
-      "path": "%sysevalf.md"
-    },
-    {
-      "basename": "240227",
-      "path": "240227.md"
-    },
-    {
-      "basename": "Untitled 1",
-      "path": "Untitled 1.base"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.base"
-    },
-    {
-      "basename": "Fi",
-      "path": "Psychology/Fi.md"
-    },
-    {
-      "basename": "Convertible Bond",
-      "path": "Convertible Bond.md"
-    },
-    {
-      "basename": "找Data工作简历tips",
-      "path": "找Data工作简历tips.md"
-    },
-    {
-      "basename": "妥协主义",
-      "path": "妥协主义.md"
-    },
-    {
-      "basename": "Diffusion Model Paper",
-      "path": "Diffusion Model Paper.md"
-    },
-    {
-      "basename": "Array",
-      "path": "SAS/Array.md"
-    },
-    {
-      "basename": "CFA二级大纲",
-      "path": "CFA2/CFA二级大纲.md"
-    },
-    {
-      "basename": "PCA",
-      "path": "PCA.md"
-    },
-    {
-      "basename": "Sustainable Growth Rate",
-      "path": "CFA2/0-股权/02-分红折现模型/Sustainable Growth Rate.md"
-    },
-    {
-      "basename": "ARCH Model",
-      "path": "CFA2/3-量化/35-时间序列分析/ARCH Model.md"
-    },
-    {
-      "basename": "信息代谢理论",
-      "path": "信息代谢理论.md"
-    },
-    {
-      "basename": "30-量化-目录",
-      "path": "CFA2/3-量化/30-量化-目录.md"
-    },
-    {
-      "basename": "HeadLine_240207",
-      "path": "Headline/HeadLine_240207.md"
-    },
-    {
-      "basename": "崩得",
-      "path": "崩得.md"
-    },
-    {
-      "basename": "240820",
-      "path": "240820.md"
-    },
-    {
-      "basename": "Cashflow from Operation",
-      "path": "Cashflow from Operation.md"
-    },
-    {
-      "basename": "Alternative Trading System",
-      "path": "Alternative Trading System.md"
-    },
-    {
-      "basename": "机会主义",
-      "path": "机会主义.md"
     }
   ],
   "omittedPaths": [],

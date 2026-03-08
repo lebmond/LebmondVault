@@ -251,6 +251,7 @@ DKZ
 DPnz
 Dax
 DeXIfMM
+Dimension
 tags
 the
 target
@@ -1200,6 +1201,9 @@ BTx
 BPn
 Bie
 BOV
+Base
+Backward
+Bottom
 of
 oligopolies
 or
@@ -1830,6 +1834,8 @@ COl
 CEx
 CAA
 CYY
+CART
+Clustering
 not
 notes
 note
@@ -2607,6 +2613,8 @@ iep
 iSu
 ieFA
 iSr
+insider
+interactions
 Mandate
 Main
 Monetary
@@ -2845,6 +2853,7 @@ MZv
 MXc
 MhS
 MWW
+Machine
 promote
 pegged
 potential
@@ -3234,6 +3243,7 @@ peB
 pqgy
 piN
 pmK
+propagation
 economic
 exchange
 efficient
@@ -3928,6 +3938,7 @@ awE
 aVw
 aWvh
 aWJ
+agglo
 financial
 flexible
 finacial
@@ -5140,6 +5151,7 @@ Pck
 PHax
 PZw
 Pny
+Penalized
 using
 under
 uses
@@ -6241,6 +6253,7 @@ rKE
 rpAF
 rxq
 retention
+revise
 system
 stable
 security
@@ -6714,6 +6727,7 @@ swo
 sIp
 seX
 sRGB
+summation
 designing
 distributing
 distribution
@@ -7399,6 +7413,7 @@ moKo
 mJC
 mbp
 mpB
+mistake
 Retail
 Role
 Risks
@@ -7980,6 +7995,8 @@ SIO
 Sfr
 SGR
 Sustainable
+Supervised
+SVM
 Oversee
 Owning
 Other
@@ -8380,6 +8397,7 @@ vcm
 vms
 vzL
 vaT
+validation
 ledger
 lives
 losses
@@ -8654,6 +8672,8 @@ lIo
 lxR
 lGK
 lpf
+linearities
+learns
 The
 Two
 Takeaway
@@ -8877,6 +8897,10 @@ TtU
 ToK
 THI
 Turnover
+Trust
+Tender
+Tasks
+Top
 Advantages
 Altcoin
 An
@@ -9140,6 +9164,7 @@ AKJ
 AzR
 AcoH
 AYc
+ABS
 Wiped
 Widespread
 Without
@@ -10192,6 +10217,8 @@ NWE
 NbTjY
 NPK
 NuT
+Nearest
+Neighbors
 Lack
 Longer
 Lean
@@ -10404,6 +10431,8 @@ LHi
 LXK
 LiUY
 LcNaz
+Learning
+LASSO
 Key
 Kernel
 Kullback
@@ -10574,6 +10603,7 @@ Kzsl
 Kwk
 KKC
 KnzEL
+KNN
 Variable
 Value
 VaR
@@ -10752,6 +10782,7 @@ VSs
 VZy
 VUc
 VaN
+Vector
 jack
 just
 jobs
@@ -11246,6 +11277,7 @@ UlG
 UWM
 UVg
 Uyt
+Unsupervised
 kurtosis
 keeping
 keep
@@ -11598,6 +11630,7 @@ HRV
 HBv
 HXL
 Hmy
+Hierachical
 Jerome
 June
 January
