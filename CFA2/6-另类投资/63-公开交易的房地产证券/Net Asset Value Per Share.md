@@ -1,6 +1,7 @@
 ---
 aliases:
   - NAVPS
+  - 基金份额净值
 tags:
   - AltInvest
 ---
