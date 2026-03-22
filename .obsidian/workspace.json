@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基金从业资格考试/第一章/基金从业资格考试 -第一章-目录.md",
+                "file": "基金从业资格考试/第二章/基金从业资格考试-第二章-目录.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -23,12 +23,12 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": false,
+                  "backlinkCollapsed": true,
                   "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "基金从业资格考试 -第一章-目录"
+              "title": "基金从业资格考试-第二章-目录"
             }
           }
         ],
@@ -105,8 +105,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -224,20 +223,26 @@
   },
   "active": "8b1d8195a0bdcf9e",
   "lastOpenFiles": [
-    "CFA2/6-另类投资/63-公开交易的房地产证券/Net Asset Value Per Share.md",
+    "%sysevalf.md",
+    "240215.md",
+    "基金从业资格考试/第二章/基金从业资格考试-第二章-目录.md",
+    "Pasted image 20260322182830.png",
     "基金从业资格考试/第一章/基金从业资格考试 -第一章-目录.md",
+    "Untitled 3.base",
+    "基金从业资格考试/第二章",
+    "Headline/HeadLine_240131.md",
     "CFA2/6-另类投资/63-公开交易的房地产证券/63000-另类投资-公开交易的房地产证券-大纲.md",
+    "CFA2/6-另类投资/63-公开交易的房地产证券/Net Asset Value Per Share.md",
+    "《怎么办》.md",
     "NAVPS.md",
     "%SYMDEL.md",
     "%eval.md",
     "Untitled 2.base",
     "基金从业资格考试/Untitled.md",
     "基金从业资格考试/第一章",
-    "《怎么办》.md",
     "《19世纪末西方国家的“大繁荣”和“大萧条”》.md",
     "基金从业资格考试",
     "Headline/HeadLine_240122.md",
-    "Headline/HeadLine_240131.md",
     "Headline/HeadLine_240207.md",
     "证券公司的监督管理.md",
     "证券行业从业/01-证券市场基本法律法规/中华人民共和国证券法.md",
@@ -250,17 +255,12 @@
     "证券行业从业/01-证券市场基本法律法规/操纵证券市场.md",
     "证券行业从业/01-证券市场基本法律法规/证券公司.md",
     "证券行业从业/01-证券市场基本法律法规/有限合伙企业.md",
-    "证券行业从业/01-证券市场基本法律法规/董事会秘书.md",
-    "证券行业从业/01-证券市场基本法律法规/公司财务会计制度的基本要求和内容.md",
-    "证券行业从业/01-证券市场基本法律法规/公司章程.md",
     "证券行业从业/02-证券经营机构管理规范",
     "Pasted image 20260218235339.png",
     "Untitled 1.base",
     "Untitled.base",
     "Untitled 5.base",
     "Untitled 6.base",
-    "Untitled 7.base",
-    "Untitled 12.base",
     "Untitled.canvas",
     "Pasted image 20241103232555.png",
     "Pasted image 20240526104523.png",
@@ -270,7 +270,6 @@
     "Pasted image 20240425152132.png",
     "Pasted image 20240425145439.png",
     "Pasted image 20240425103412.png",
-    "Pasted image 20240425004901.png",
     "Untitled 1.canvas"
   ]
 }
