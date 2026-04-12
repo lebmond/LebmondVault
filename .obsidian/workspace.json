@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基金从业资格考试/第三章 基金法律法规体系和监管体系/证券交易所.md",
+                "file": "基金从业资格考试/第四章 基金市场参与主体及其从业人员的法规要求/基金管理人.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -24,15 +24,14 @@
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
+                  "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "证券交易所"
+              "title": "基金管理人"
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -55,7 +54,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -64,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "准备金",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +71,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "搜索"
             }
           },
           {
@@ -86,16 +85,6 @@
             }
           },
           {
-            "id": "045df1b83a3644e8",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
-            }
-          },
-          {
             "id": "25cbe6dcec2d5e07",
             "type": "leaf",
             "state": {
@@ -105,7 +94,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -126,7 +116,7 @@
               "type": "review-queue-list-view",
               "state": {},
               "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "title": "笔记复习序列"
             }
           },
           {
@@ -183,13 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "基金从业资格考试/第三章 基金法律法规体系和监管体系/证券交易所.md",
+                "file": "基金从业资格考试/第四章 基金市场参与主体及其从业人员的法规要求/基金管理人.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 证券交易所"
+              "title": "基金管理人 的大纲"
             }
           },
           {
@@ -202,56 +192,65 @@
               "title": "Notes Review Queue"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 215.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
-      "daily-notes:Open today's daily note": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "templates:Insert template": false,
-      "switcher:Open quick switcher": false,
-      "command-palette:Open command palette": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-spaced-repetition:复习卡片": false,
       "omnisearch:Omnisearch": false,
       "header-adjuster:Adjust Headers": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "workspaces:管理工作区布局": false,
+      "random-note:开始漫游笔记": false
     }
   },
   "active": "67b5a9fa277774d5",
   "lastOpenFiles": [
-    "基金从业资格考试/第三章 基金法律法规体系和监管体系/基金从业资格考试 -第三章-目录.md",
-    "基金从业资格考试/第三章 基金法律法规体系和监管体系/证券交易所.md",
-    "中国证券业协会.md",
-    "基金从业资格考试/第三章 基金法律法规体系和监管体系/中国证券投资基金业协会.md",
-    "基金从业资格考试/第二章 基金概述/基金管理人.md",
+    "基金从业资格考试/第四章 基金市场参与主体及其从业人员的法规要求/基金从业考试-第四章-目录.md",
+    "基金从业资格考试/第四章 基金市场参与主体及其从业人员的法规要求/基金管理人.md",
     "基金从业资格考试/第二章 基金概述/基金从业资格考试-第二章-目录.md",
-    "基金从业资格考试/第三章 基金法律法规体系和监管体系/中国证监会.md",
-    "证券行业从业/01-证券市场基本法律法规/证券市场法律法规体系的构成.md",
-    "基金从业资格考试/第二章 基金概述/非公开募集基金.md",
-    "基金从业资格考试/第二章 基金概述/基金份额持有人.md",
-    "SAS/Output Deliver System.md",
-    "SAS/PROC IMPORT.md",
-    "基金从业资格考试/第三章 基金法律法规体系和监管体系/基金行业法律法规体系.md",
-    "SAS/TITLE.md",
-    "证券行业从业/02-证券经营机构管理规范/02-证券经营机构管理规范-目录.md",
-    "基金从业资格考试/第二章 基金概述/基金托管人.md",
-    "证券行业从业/01-证券市场基本法律法规/01-证券市场基本法律法规-目录.md",
     "基金从业资格考试/第二章 基金概述/基金的运作.md",
-    "基金从业资格考试/第二章 基金概述/基金服务机构.md",
+    "证券行业从业/01-证券市场基本法律法规/期货交易规则.md",
+    "证券行业从业/01-证券市场基本法律法规/公司.md",
+    "中国证券业协会.md",
+    "CFA2/1-财报分析/11-跨公司投资/11000-财报分析-跨公司投资-大纲.md",
+    "证券行业从业/01-证券市场基本法律法规/独立董事.md",
+    "基金从业资格考试/第二章 基金概述/基金份额持有人.md",
+    "未命名 2.base",
+    "未命名 1.base",
+    "未命名.base",
+    "基金从业资格考试/第四章 基金市场参与主体及其从业人员的法规要求/其他资产管理机构.md",
+    "Pasted image 20260405110629.png",
+    "基金从业资格考试/第三章 基金法律法规体系和监管体系/基金行业法律法规体系.md",
+    "Pasted image 20260405103752.png",
+    "Pasted image 20260405103501.png",
     "基金从业资格考试/第一章/基金从业资格考试 -第一章-目录.md",
-    "SAS/INFILE CARDS.md",
-    "SAS/SAS informat.md",
-    "SAS/SAS Lecture 1.md",
+    "240304.md",
+    "240302.md",
+    "240316.md",
+    "240227.md",
+    "《怎么办》.md",
+    "%SYMDEL.md",
+    "%eval.md",
+    "240526.md",
+    "240301.md",
+    "240216.md",
+    "240215.md",
+    "%sysevalf.md",
+    "240318.md",
+    "基金从业资格考试/第四章 基金市场参与主体及其从业人员的法规要求",
     "Pasted image 20260328161845.png",
-    "SAS/SAS Lecture 2.md",
-    "SAS/SAS Name.md",
-    "SAS/WEEKDAY.md",
     "基金从业资格考试/第三章 基金法律法规体系和监管体系",
     "Untitled 4.base",
     "Pasted image 20260328132446.png",
@@ -260,18 +259,11 @@
     "基金从业资格考试/第二章 基金概述",
     "Untitled 2.base",
     "基金从业资格考试/第一章",
-    "基金从业资格考试",
-    "证券行业从业/02-证券经营机构管理规范",
     "Pasted image 20260218235339.png",
-    "Untitled 1.base",
-    "Untitled.base",
     "Untitled.canvas",
     "Pasted image 20241103232555.png",
     "Pasted image 20240526104523.png",
     "Pasted image 20240526101543.png",
-    "Pasted image 20240526101101.png",
-    "Pasted image 20240523154355.png",
-    "Pasted image 20240425152132.png",
     "Untitled 1.canvas"
   ]
 }
