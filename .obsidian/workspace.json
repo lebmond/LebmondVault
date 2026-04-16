@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基金从业资格考试/第二章 基金概述/基金服务机构.md",
+                "file": "基金从业资格考试/第四章 基金市场参与主体及其从业人员的法规要求/基金从业人员.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -24,11 +24,11 @@
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                  "unlinkedCollapsed": false
                 }
               },
               "icon": "lucide-file",
-              "title": "基金服务机构"
+              "title": "基金从业人员"
             }
           }
         ],
@@ -55,7 +55,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -105,7 +105,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -126,7 +127,7 @@
               "type": "review-queue-list-view",
               "state": {},
               "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "title": "笔记复习序列"
             }
           },
           {
@@ -161,7 +162,44 @@
             }
           },
           {
-            "id": "783e7a6503a70bfb",
+            "id": "8902222c329861b1",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "0fd73c789b357734",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "基金从业资格考试/第四章 基金市场参与主体及其从业人员的法规要求/基金从业人员.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "脚注"
+            }
+          },
+          {
+            "id": "497e9584d241d497",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "基金从业资格考试/第四章 基金市场参与主体及其从业人员的法规要求/基金从业人员.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "基金从业人员 的大纲"
+            }
+          },
+          {
+            "id": "ed0baf452a242fb8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -172,36 +210,10 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "143e1b59f27366a7",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "基金从业资格考试/第二章 基金概述/基金服务机构.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of 基金服务机构"
-            }
-          },
-          {
-            "id": "8902222c329861b1",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "title": "标签"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -209,51 +221,51 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "random-note:Open random note": false,
-      "workspaces:Manage workspace layouts": false,
-      "bases:Create new base": false,
-      "daily-notes:Open today's daily note": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "templates:Insert template": false,
-      "switcher:Open quick switcher": false,
-      "command-palette:Open command palette": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "random-note:开始漫游笔记": false,
+      "workspaces:管理工作区布局": false,
+      "bases:新建数据库": false,
+      "obsidian-spaced-repetition:复习卡片": false,
       "omnisearch:Omnisearch": false,
-      "header-adjuster:Adjust Headers": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "header-adjuster:Adjust Headers": false
     }
   },
   "active": "8243504e92549214",
   "lastOpenFiles": [
     "基金从业资格考试/第四章 基金市场参与主体及其从业人员的法规要求/基金从业考试-第四章-目录.md",
     "基金从业资格考试/第四章 基金市场参与主体及其从业人员的法规要求/基金从业人员.md",
+    "ECN.md",
+    "Alternative Trading System.md",
+    "基金从业资格考试/第二章 基金概述/基金服务机构.md",
+    "Putable Bond.md",
+    "Pasted image 20241103232555.png",
+    "Diffusion Model Paper.md",
+    "CFA2/6-另类投资/63-公开交易的房地产证券/Net Asset Value Per Share.md",
+    "基金从业资格考试/第二章 基金概述/基金份额持有人.md",
+    "240216.md",
+    "基金从业资格考试/第三章 基金法律法规体系和监管体系/基金从业资格考试 -第三章-目录.md",
+    "高德院.md",
     "240417.md",
     "240426.md",
-    "基金从业资格考试/第二章 基金概述/基金从业资格考试-第二章-目录.md",
-    "基金从业资格考试/第三章 基金法律法规体系和监管体系/证券交易所.md",
-    "基金从业资格考试/第二章 基金概述/基金份额持有人.md",
+    "基金从业资格考试/第四章 基金市场参与主体及其从业人员的法规要求/基金管理人.md",
     "基金从业资格考试/第四章 基金市场参与主体及其从业人员的法规要求/其他资产管理机构.md",
-    "基金从业资格考试/第二章 基金概述/非公开募集基金.md",
-    "《19世纪末西方国家的“大繁荣”和“大萧条”》.md",
-    "《怎么办》.md",
-    "%eval.md",
+    "%sysevalf.md",
     "%SYMDEL.md",
-    "基金从业资格考试/第二章 基金概述/基金服务机构.md",
-    "基金从业资格考试/第三章 基金法律法规体系和监管体系/中国证券投资基金业协会.md",
-    "250101.md",
-    "基金从业资格考试/第二章 基金概述/基金的运作.md",
-    "240216.md",
-    "240301.md",
-    "240304.md",
+    "基金从业资格考试/第三章 基金法律法规体系和监管体系/中国证监会.md",
     "240316.md",
-    "Alternative Trading System.md",
-    "CAPM.md",
-    "ECN.md",
+    "240304.md",
+    "240302.md",
+    "240301.md",
+    "240227.md",
+    "240215.md",
+    "240319.md",
     "Pasted image 20240526101101.png",
-    "Pasted image 20241103232555.png",
-    "Putable Bond.md",
     "Untitled 2.base",
-    "党的第三次代表大会.md",
     "Pasted image 20240425004901.png",
     "Untitled 3.base",
     "未命名.base",
