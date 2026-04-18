@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基金从业资格考试/第四章 基金市场参与主体及其从业人员的法规要求/基金从业人员.md",
+                "file": "基金从业资格考试/第四章 基金市场参与主体及其从业人员的法规要求/基金从业考试-第四章-目录.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "基金从业人员"
+              "title": "基金从业考试-第四章-目录"
+            }
+          },
+          {
+            "id": "5401b5ea50b25fe7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "基金从业资格考试/第四章 基金市场参与主体及其从业人员的法规要求/廉洁从业.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "廉洁从业"
             }
           }
         ],
@@ -105,8 +129,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,7 +200,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "基金从业资格考试/第四章 基金市场参与主体及其从业人员的法规要求/基金从业人员.md"
+                "file": "基金从业资格考试/第四章 基金市场参与主体及其从业人员的法规要求/基金从业考试-第四章-目录.md"
               },
               "icon": "lucide-file-signature",
               "title": "脚注"
@@ -189,13 +212,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "基金从业资格考试/第四章 基金市场参与主体及其从业人员的法规要求/基金从业人员.md",
+                "file": "基金从业资格考试/第四章 基金市场参与主体及其从业人员的法规要求/基金从业考试-第四章-目录.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "基金从业人员 的大纲"
+              "title": "基金从业考试-第四章-目录 的大纲"
             }
           },
           {
@@ -213,7 +236,8 @@
               "title": "标签"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -237,33 +261,33 @@
   },
   "active": "8243504e92549214",
   "lastOpenFiles": [
-    "基金从业资格考试/第四章 基金市场参与主体及其从业人员的法规要求/基金从业考试-第四章-目录.md",
-    "基金从业资格考试/第四章 基金市场参与主体及其从业人员的法规要求/基金从业人员.md",
-    "ECN.md",
-    "Alternative Trading System.md",
-    "基金从业资格考试/第二章 基金概述/基金服务机构.md",
-    "Putable Bond.md",
-    "Pasted image 20241103232555.png",
-    "Diffusion Model Paper.md",
-    "CFA2/6-另类投资/63-公开交易的房地产证券/Net Asset Value Per Share.md",
-    "基金从业资格考试/第二章 基金概述/基金份额持有人.md",
-    "240216.md",
-    "基金从业资格考试/第三章 基金法律法规体系和监管体系/基金从业资格考试 -第三章-目录.md",
-    "高德院.md",
+    "240820.md",
+    "240627.md",
     "240417.md",
+    "基金从业资格考试/第四章 基金市场参与主体及其从业人员的法规要求/基金从业考试-第四章-目录.md",
+    "240301.md",
+    "240302.md",
+    "基金从业资格考试/第四章 基金市场参与主体及其从业人员的法规要求/廉洁从业.md",
+    "240227.md",
+    "%sysevalf.md",
+    "240318.md",
+    "240319.md",
+    "240304.md",
+    "240316.md",
+    "《19世纪末西方国家的“大繁荣”和“大萧条”》.md",
+    "《怎么办》.md",
+    "%SYMDEL.md",
+    "240215.md",
+    "240216.md",
+    "杜马.md",
+    "250101.md",
+    "240526.md",
     "240426.md",
     "基金从业资格考试/第四章 基金市场参与主体及其从业人员的法规要求/基金管理人.md",
-    "基金从业资格考试/第四章 基金市场参与主体及其从业人员的法规要求/其他资产管理机构.md",
-    "%sysevalf.md",
-    "%SYMDEL.md",
-    "基金从业资格考试/第三章 基金法律法规体系和监管体系/中国证监会.md",
-    "240316.md",
-    "240304.md",
-    "240302.md",
-    "240301.md",
-    "240227.md",
-    "240215.md",
-    "240319.md",
+    "基金从业资格考试/第四章 基金市场参与主体及其从业人员的法规要求/基金从业人员.md",
+    "CFA2/6-另类投资/63-公开交易的房地产证券/Net Asset Value Per Share.md",
+    "ECN.md",
+    "Pasted image 20241103232555.png",
     "Pasted image 20240526101101.png",
     "Untitled 2.base",
     "Pasted image 20240425004901.png",
