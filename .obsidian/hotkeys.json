@@ -50,8 +50,6 @@
       "key": "R"
     }
   ],
-  "obsidian-completr:completr-fake-tab": [],
-  "obsidian-completr:completr-insert-selected-suggestion": [],
   "workspace:new-tab": [],
   "editor:insert-table": [
     {
@@ -60,5 +58,25 @@
       ],
       "key": "T"
     }
-  ]
+  ],
+  "editor:open-search": [],
+  "global-search:open": [],
+  "omnisearch:show-modal-infile": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F"
+    }
+  ],
+  "omnisearch:show-modal": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "F"
+    }
+  ],
+  "obsidian-completr:completr-fake-enter": []
 }
