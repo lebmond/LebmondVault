@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基金从业资格考试/第一章 金融市场与资产管理/基金从业资格考试 -第一章-目录.md",
+                "file": "私募资产管理计划运作的相关规定.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "基金从业资格考试 -第一章-目录"
+              "title": "私募资产管理计划运作的相关规定"
             }
           }
         ],
@@ -55,7 +55,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -105,8 +105,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -190,7 +189,7 @@
               "type": "review-queue-list-view",
               "state": {},
               "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "title": "笔记复习序列"
             }
           }
         ],
@@ -202,48 +201,49 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "workspaces:Manage workspace layouts": false,
-      "bases:Create new base": false,
-      "daily-notes:Open today's daily note": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "templates:Insert template": false,
-      "switcher:Open quick switcher": false,
-      "command-palette:Open command palette": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "random-note:开始漫游笔记": false,
+      "workspaces:管理工作区布局": false,
+      "bases:新建数据库": false,
+      "obsidian-spaced-repetition:复习卡片": false,
       "omnisearch:Omnisearch": false,
-      "header-adjuster:Adjust Headers": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "random-note:Open random note": false
+      "header-adjuster:Adjust Headers": false
     }
   },
   "active": "633b3f7696e35192",
   "lastOpenFiles": [
-    "CFA2/6-另类投资/63-公开交易的房地产证券/63000-另类投资-公开交易的房地产证券-大纲.md",
-    "基金从业资格考试/第一章 金融市场与资产管理/基金从业资格考试 -第一章-目录.md",
-    "基金从业资格考试/第一章 金融市场与资产管理/资产管理业务义务体系.md",
-    "基金从业资格考试/第一章 金融市场与资产管理/货币市场.md",
-    "基金从业资格考试/第三章 基金法律法规体系和监管体系/证券交易所.md",
-    "基金从业资格考试/第三章 基金法律法规体系和监管体系/中国证监会.md",
-    "基金从业资格考试/第一章 金融市场与资产管理/外汇市场.md",
-    "REIT.md",
-    "基金从业资格考试/第一章 金融市场与资产管理/资产管理行业主要表现的特征.md",
-    "基金从业资格考试/第一章 金融市场与资产管理/私募投资基金监督管理条例.md",
-    "基金从业资格考试/第三章 基金法律法规体系和监管体系/基金行业法律法规体系.md",
-    "基金从业资格考试/第三章 基金法律法规体系和监管体系/基金从业资格考试 -第三章-目录.md",
-    "基金从业资格考试/第三章 基金法律法规体系和监管体系/中国证券投资基金业协会.md",
-    "资产管理行业历史.md",
-    "240227.md",
-    "240216.md",
-    "240215.md",
-    "%sysevalf.md",
-    "%SYMDEL.md",
-    "《19世纪末西方国家的“大繁荣”和“大萧条”》.md",
-    "基金从业资格考试/第四章 基金市场参与主体及其从业人员的法规要求/基金管理人.md",
-    "基金从业资格考试/第四章 基金市场参与主体及其从业人员的法规要求/其他资产管理机构.md",
-    "基金从业资格考试/第四章 基金市场参与主体及其从业人员的法规要求/基金从业考试-第四章-目录.md",
-    "基金从业资格考试/第四章 基金市场参与主体及其从业人员的法规要求/基金从业人员.md",
-    "基金从业资格考试/第五章 基金活动的法规要求/公募基金销售与宣传的相关规定.md",
+    "《怎么办》.md",
+    "私募资产管理计划运作的相关规定.md",
+    "%eval.md",
+    "240718.md",
     "基金从业资格考试/第五章 基金活动的法规要求/基金从业资格考试-第五章-目录.md",
+    "240627.md",
+    "240922.md",
+    "240319.md",
+    "240318.md",
+    "240316.md",
+    "240304.md",
+    "250101.md",
+    "260419.md",
+    "240301.md",
+    "240526.md",
+    "240820.md",
+    "240417.md",
+    "《19世纪末西方国家的“大繁荣”和“大萧条”》.md",
+    "240302.md",
+    "240426.md",
+    "基金从业资格考试/第五章 基金活动的法规要求/合格投资者.md",
+    "240227.md",
+    "Pasted image 20260423222948.png",
+    "%SYMDEL.md",
+    "240216.md",
+    "基金从业资格考试/第五章 基金活动的法规要求/巨额赎回.md",
+    "私募资产管理计划.md",
     "Pasted image 20260418143848.png",
     "Untitled 10.base",
     "Untitled 9.base",
@@ -263,7 +263,6 @@
     "Pasted image 20260405110629.png",
     "Pasted image 20260405103752.png",
     "Pasted image 20260405103501.png",
-    "Pasted image 20260328161845.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
