@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7b57b8cffcfce5ff",
+        "id": "a590c941b7e003dd",
         "type": "tabs",
         "children": [
           {
-            "id": "bed6e5ffb65f18b5",
+            "id": "633b3f7696e35192",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基金从业资格考试/第五章 基金活动的法规要求/基金活动反洗钱.md",
+                "file": "基金从业资格考试/基金从业考试科目一 法律法规/第五章 基金活动的法规要求/私募资产管理计划募集的相关规定.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -24,11 +24,11 @@
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
+                  "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "基金活动反洗钱"
+              "title": "私募资产管理计划募集的相关规定"
             }
           }
         ],
@@ -55,7 +55,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -72,7 +72,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "搜索"
             }
           },
           {
@@ -109,7 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 284.5
   },
   "right": {
     "id": "e0728eca44de90e9",
@@ -189,7 +189,7 @@
               "type": "review-queue-list-view",
               "state": {},
               "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "title": "笔记复习序列"
             }
           }
         ],
@@ -197,72 +197,72 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 356.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "random-note:Open random note": false,
-      "workspaces:Manage workspace layouts": false,
-      "bases:Create new base": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "random-note:开始漫游笔记": false,
+      "workspaces:管理工作区布局": false,
+      "bases:新建数据库": false,
+      "obsidian-spaced-repetition:复习卡片": false,
       "omnisearch:Omnisearch": false,
       "header-adjuster:Adjust Headers": false
     }
   },
-  "active": "bed6e5ffb65f18b5",
+  "active": "633b3f7696e35192",
   "lastOpenFiles": [
-    "基金从业资格考试/第五章 基金活动的法规要求/基金从业资格考试-第五章-目录.md",
-    "基金从业资格考试/第五章 基金活动的法规要求/基金活动反洗钱.md",
-    "基金从业资格考试/第五章 基金活动的法规要求/客户尽职调查.md",
-    "%eval.md",
-    "基金从业资格考试/第五章 基金活动的法规要求/私募基金运作的相关规定.md",
-    "基金从业资格考试/第五章 基金活动的法规要求/合格投资者.md",
-    "基金从业资格考试/第五章 基金活动的法规要求/私募资产管理计划运作的相关规定.md",
-    "基金从业资格考试/第五章 基金活动的法规要求/私募资产管理计划募集的相关规定.md",
-    "基金从业资格考试/第五章 基金活动的法规要求/私募基金备案的相关规定.md",
-    "基金从业资格考试/第五章 基金活动的法规要求/巨额赎回.md",
-    "基金从业资格考试/第五章 基金活动的法规要求/发起式基金.md",
-    "基金从业资格考试/第五章 基金活动的法规要求/募集结算资金.md",
-    "基金从业资格考试/第五章 基金活动的法规要求/私募基金募集的相关规定.md",
-    "240302.md",
-    "240316.md",
-    "240318.md",
-    "240319.md",
-    "240301.md",
-    "240216.md",
-    "《19世纪末西方国家的“大繁荣”和“大萧条”》.md",
-    "%SYMDEL.md",
-    "%sysevalf.md",
-    "《怎么办》.md",
-    "基金从业资格考试/第五章 基金活动的法规要求/公募基金产品的相关规定.md",
-    "基金从业资格考试/第五章 基金活动的法规要求/公募基金销售与宣传的相关规定.md",
-    "基金从业资格考试/第五章 基金活动的法规要求/公募基金投资与交易的相关规定.md",
-    "Pasted image 20240425103412.png",
-    "Pasted image 20240526104523.png",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第五章 基金活动的法规要求/基金从业资格考试-第五章-目录.md",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第五章 基金活动的法规要求/私募资产管理计划运作的相关规定.md",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第五章 基金活动的法规要求/基金活动反洗钱.md",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第五章 基金活动的法规要求/客户尽职调查.md",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第五章 基金活动的法规要求/募集结算资金.md",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第五章 基金活动的法规要求/私募基金备案的相关规定.md",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第五章 基金活动的法规要求/私募基金募集的相关规定.md",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第五章 基金活动的法规要求/私募资产管理计划募集的相关规定.md",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第五章 基金活动的法规要求/私募基金运作的相关规定.md",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第一章 金融市场与资产管理/货币市场.md",
+    "基金从业资格考试/基金从业考试科目二 证券投资/第八章 投资流程管理/投资管理相关部门.md",
+    "基金从业资格考试/基金从业考试科目二 证券投资/第一章 证券投资基金概述/合格境内机构投资者基金.md",
+    "基金从业资格考试/基金从业考试科目二 证券投资/第一章 证券投资基金概述/基金运作环节.md",
+    "基金从业资格考试/基金从业考试科目二 证券投资/第一章 证券投资基金概述/同业存单.md",
+    "基金从业资格考试/基金从业考试科目二 证券投资/第一章 证券投资基金概述/私募资产管理计划.md",
+    "基金从业资格考试/基金从业考试科目二 证券投资/第一章 证券投资基金概述/基金市场的参与主体.md",
+    "基金从业资格考试/基金从业考试科目二 证券投资/第一章 证券投资基金概述/货币市场基金.md",
+    "Riding the Yield Curve.md",
+    "证券行业从业/01-证券市场基本法律法规/01-证券市场基本法律法规-目录.md",
+    "证券行业从业/01-证券市场基本法律法规/期货交易规则.md",
+    "MFM714/Recap W2L1 Jan 15.md",
+    "MFM714/Recap W6L2 Feb 14.md",
+    "基金从业资格考试/基金从业考试科目二 证券投资/第五章 固定收益投资/债券基金.md",
+    "基金从业资格考试/基金从业考试科目二 证券投资/第八章 投资流程管理",
+    "基金从业资格考试/基金从业考试科目二 证券投资/第一章 证券投资基金概述/REIT.md",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第五章 基金活动的法规要求/公募基金产品的相关规定.md",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第四章 基金市场参与主体及其从业人员的法规要求/基金管理人.md",
+    "基金从业资格考试/基金从业考试科目二 证券投资/第五章 固定收益投资",
+    "基金从业资格考试/基金从业考试科目二 证券投资/第三章 投资管理基础",
+    "Pasted image 20260428203115.png",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第六章 风险管理",
     "Pasted image 20260423222948.png",
-    "Pasted image 20240523154355.png",
+    "基金从业资格考试/基金从业考试科目二 证券投资/第一章 证券投资基金概述",
+    "基金从业资格考试/基金从业考试科目二 证券投资",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第五章 基金活动的法规要求",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第四章 基金市场参与主体及其从业人员的法规要求",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第三章 基金法律法规体系和监管体系",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第二章 基金概述",
     "Pasted image 20260418143848.png",
-    "Untitled 10.base",
-    "Untitled 9.base",
     "Pasted image 20260418122509.png",
     "Pasted image 20260418122500.png",
     "Pasted image 20260418122457.png",
     "Pasted image 20260418122440.png",
-    "Untitled 7.base",
-    "Untitled 8.base",
-    "Untitled 6.base",
-    "Untitled 5.base",
     "Pasted image 20260418110843.png",
-    "基金从业资格考试/第五章 基金活动的法规要求",
-    "未命名.base",
-    "未命名 2.base",
-    "未命名 1.base",
+    "Pasted image 20260405110629.png",
+    "Pasted image 20260405103752.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
