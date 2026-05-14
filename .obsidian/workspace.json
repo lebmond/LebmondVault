@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "4fbbc99f9d3aa9af",
+    "id": "9546d9516b85bf47",
     "type": "split",
     "children": [
       {
-        "id": "a590c941b7e003dd",
+        "id": "a8603abca2ef8914",
         "type": "tabs",
         "children": [
           {
-            "id": "633b3f7696e35192",
+            "id": "69b75f7dd4393982",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基金从业资格考试/基金从业考试科目一 法律法规/第五章 基金活动的法规要求/合格投资者.md",
+                "file": "基金从业资格考试/基金从业考试科目一 法律法规/第五章 基金活动的法规要求/公募基金销售与宣传的相关规定.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -24,29 +24,28 @@
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                  "unlinkedCollapsed": false
                 }
               },
               "icon": "lucide-file",
-              "title": "合格投资者"
+              "title": "公募基金销售与宣传的相关规定"
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "bd7f7c3c26080316",
+    "id": "7c8fea837e65ff02",
     "type": "split",
     "children": [
       {
-        "id": "9a4193085484bf98",
+        "id": "365f68ca8d330be5",
         "type": "tabs",
         "children": [
           {
-            "id": "8d9f0db283533c5d",
+            "id": "5c6a1527113264be",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,16 +54,16 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
-            "id": "8e8b6213e9ccf1d3",
+            "id": "de824d85990d769e",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "宣传推介",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,11 +71,11 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "搜索"
+              "title": "Search"
             }
           },
           {
-            "id": "76084d10fba384af",
+            "id": "1ce1e60414f8da9b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -86,17 +85,7 @@
             }
           },
           {
-            "id": "045df1b83a3644e8",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
-            }
-          },
-          {
-            "id": "25cbe6dcec2d5e07",
+            "id": "78743a0e05f367d6",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -105,55 +94,56 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 300
   },
   "right": {
-    "id": "e0728eca44de90e9",
+    "id": "1a23f362dfcf85db",
     "type": "split",
     "children": [
       {
-        "id": "954ac486a5b6e09b",
+        "id": "4542adb5426d5151",
         "type": "tabs",
         "children": [
           {
-            "id": "95625edf04a506f2",
+            "id": "27007a457606c0fb",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "基金从业资格考试/第一章 金融市场与资产管理/基金从业资格考试 -第一章-目录.md",
-                "collapseAll": true,
+                "file": "基金从业资格考试/基金从业考试科目一 法律法规/第五章 基金活动的法规要求/公募基金销售与宣传的相关规定.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 基金从业资格考试 -第一章-目录"
+              "title": "Backlinks for 公募基金销售与宣传的相关规定"
             }
           },
           {
-            "id": "eab6329de923eb71",
+            "id": "adda0b5e526f5246",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "基金从业资格考试/第五章 基金活动的法规要求/合格投资者.md",
+                "file": "基金从业资格考试/基金从业考试科目一 法律法规/第五章 基金活动的法规要求/公募基金销售与宣传的相关规定.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 合格投资者"
+              "title": "Outgoing links from 公募基金销售与宣传的相关规定"
             }
           },
           {
-            "id": "783e7a6503a70bfb",
+            "id": "1a66d76156bee271",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -168,28 +158,28 @@
             }
           },
           {
-            "id": "143e1b59f27366a7",
+            "id": "1a63cf3f97a00818",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "基金从业资格考试/基金从业考试科目一 法律法规/第五章 基金活动的法规要求/合格投资者.md",
+                "file": "基金从业资格考试/基金从业考试科目一 法律法规/第五章 基金活动的法规要求/公募基金销售与宣传的相关规定.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "合格投资者 的大纲"
+              "title": "Outline of 公募基金销售与宣传的相关规定"
             }
           },
           {
-            "id": "4092b192df6443d2",
+            "id": "0eb587b87eb3f552",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
               "state": {},
               "icon": "SpacedRepIcon",
-              "title": "笔记复习序列"
+              "title": "Notes Review Queue"
             }
           }
         ],
@@ -197,73 +187,52 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "random-note:开始漫游笔记": false,
-      "workspaces:管理工作区布局": false,
-      "bases:新建数据库": false,
-      "obsidian-spaced-repetition:复习卡片": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "bases:Create new base": false,
       "omnisearch:Omnisearch": false,
-      "header-adjuster:Adjust Headers": false
+      "header-adjuster:Adjust Headers": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "633b3f7696e35192",
+  "active": "69b75f7dd4393982",
   "lastOpenFiles": [
-    "基金从业资格考试/基金从业考试科目一 法律法规/第二章 基金概述/基金从业资格考试-第二章-目录.md",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第二章 基金概述/专业投资者.md",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第五章 基金活动的法规要求/公募基金销售与宣传的相关规定.md",
     "基金从业资格考试/基金从业考试科目一 法律法规/第五章 基金活动的法规要求/合格投资者.md",
-    "基金从业资格考试/基金从业考试科目二 证券投资/第一章 证券投资基金概述/私募资产管理计划.md",
-    "基金从业资格考试/基金从业考试科目一 法律法规/第一章 金融市场与资产管理/外汇市场.md",
-    "基金从业资格考试/基金从业考试科目一 法律法规/第二章 基金概述/非公开募集基金.md",
-    "基金从业资格考试/基金从业考试科目一 法律法规/第一章 金融市场与资产管理/基金从业资格考试 -第一章-目录.md",
-    "基金从业资格考试/基金从业考试科目一 法律法规/第一章 金融市场与资产管理/私募投资基金监督管理条例.md",
-    "基金从业资格考试/基金从业考试科目一 法律法规/第一章 金融市场与资产管理/资产管理行业主要表现的特征.md",
-    "基金从业资格考试/基金从业考试科目一 法律法规/第五章 基金活动的法规要求/私募资产管理计划募集的相关规定.md",
-    "基金从业资格考试/基金从业考试科目一 法律法规/第一章 金融市场与资产管理/资产管理业务义务体系.md",
-    "基金从业资格考试/基金从业考试科目一 法律法规/第一章 金融市场与资产管理/货币市场.md",
-    "基金从业资格考试/基金从业考试科目二 证券投资/第八章 投资流程管理/投资管理相关部门.md",
-    "基金从业资格考试/基金从业考试科目一 法律法规/第五章 基金活动的法规要求/基金从业资格考试-第五章-目录.md",
-    "基金从业资格考试/基金从业考试科目一 法律法规/第五章 基金活动的法规要求/私募资产管理计划运作的相关规定.md",
-    "基金从业资格考试/基金从业考试科目一 法律法规/第五章 基金活动的法规要求/基金活动反洗钱.md",
-    "基金从业资格考试/基金从业考试科目一 法律法规/第五章 基金活动的法规要求/客户尽职调查.md",
-    "基金从业资格考试/基金从业考试科目一 法律法规/第五章 基金活动的法规要求/募集结算资金.md",
-    "基金从业资格考试/基金从业考试科目一 法律法规/第五章 基金活动的法规要求/私募基金备案的相关规定.md",
-    "基金从业资格考试/基金从业考试科目一 法律法规/第五章 基金活动的法规要求/私募基金募集的相关规定.md",
+    "普通投资者.md",
     "基金从业资格考试/基金从业考试科目一 法律法规/第五章 基金活动的法规要求/私募基金运作的相关规定.md",
-    "基金从业资格考试/基金从业考试科目二 证券投资/第一章 证券投资基金概述/合格境内机构投资者基金.md",
-    "基金从业资格考试/基金从业考试科目二 证券投资/第一章 证券投资基金概述/基金运作环节.md",
-    "基金从业资格考试/基金从业考试科目二 证券投资/第一章 证券投资基金概述/同业存单.md",
-    "基金从业资格考试/基金从业考试科目二 证券投资/第一章 证券投资基金概述/基金市场的参与主体.md",
-    "基金从业资格考试/基金从业考试科目二 证券投资/第一章 证券投资基金概述/货币市场基金.md",
-    "Riding the Yield Curve.md",
-    "基金从业资格考试/基金从业考试科目二 证券投资/第八章 投资流程管理",
-    "基金从业资格考试/基金从业考试科目二 证券投资/第五章 固定收益投资",
-    "基金从业资格考试/基金从业考试科目二 证券投资/第三章 投资管理基础",
-    "Pasted image 20260428203115.png",
-    "基金从业资格考试/基金从业考试科目一 法律法规/第六章 风险管理",
-    "Pasted image 20260423222948.png",
-    "基金从业资格考试/基金从业考试科目二 证券投资/第一章 证券投资基金概述",
-    "基金从业资格考试/基金从业考试科目二 证券投资",
-    "基金从业资格考试/基金从业考试科目一 法律法规/第五章 基金活动的法规要求",
-    "基金从业资格考试/基金从业考试科目一 法律法规/第四章 基金市场参与主体及其从业人员的法规要求",
-    "基金从业资格考试/基金从业考试科目一 法律法规/第三章 基金法律法规体系和监管体系",
-    "基金从业资格考试/基金从业考试科目一 法律法规/第二章 基金概述",
-    "Pasted image 20260418143848.png",
-    "Pasted image 20260418122509.png",
-    "Pasted image 20260418122500.png",
-    "Pasted image 20260418122457.png",
-    "Pasted image 20260418122440.png",
-    "Pasted image 20260418110843.png",
-    "Pasted image 20260405110629.png",
-    "Pasted image 20260405103752.png",
-    "Untitled.canvas",
-    "Untitled 1.canvas"
+    "基金从业资格考试/基金从业考试科目一 法律法规/第二章 基金概述/基金份额持有人.md",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第五章 基金活动的法规要求/公募基金募集的相关规定.md",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第五章 基金活动的法规要求/基金从业资格考试-第五章-目录.md",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第二章 基金概述/基金服务机构.md",
+    "公开发行.md",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第四章 基金市场参与主体及其从业人员的法规要求/私募基金管理人的业务规范.md",
+    "公募基金信息披露的相关规定.md",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第四章 基金市场参与主体及其从业人员的法规要求/廉洁从业.md",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第四章 基金市场参与主体及其从业人员的法规要求/对基金托管人的监督管理.md",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第四章 基金市场参与主体及其从业人员的法规要求/基金从业人员.md",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第四章 基金市场参与主体及其从业人员的法规要求/公募基金管理人的法定职责.md",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第四章 基金市场参与主体及其从业人员的法规要求/主要股东.md",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第四章 基金市场参与主体及其从业人员的法规要求/基金托管人职责终止.md",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第四章 基金市场参与主体及其从业人员的法规要求/其他资产管理机构.md",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第四章 基金市场参与主体及其从业人员的法规要求/公募基金管理人风险准备金制度和财务指标.md",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第四章 基金市场参与主体及其从业人员的法规要求/私募基金管理人.md",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第四章 基金市场参与主体及其从业人员的法规要求/基金管理人.md",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第四章 基金市场参与主体及其从业人员的法规要求/基金从业考试-第四章-目录.md",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第六章 风险管理/第六章 风险管理.md",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第四章 基金市场参与主体及其从业人员的法规要求/公募基金管理人的业务规范.md",
+    "240227.md",
+    "Untitled 3.base"
   ]
 }
