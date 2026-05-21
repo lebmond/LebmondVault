@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "bdfc122f81723dcf",
+    "id": "4fbbc99f9d3aa9af",
     "type": "split",
     "children": [
       {
-        "id": "9a7e98b36477d9f1",
+        "id": "7b57b8cffcfce5ff",
         "type": "tabs",
         "children": [
           {
-            "id": "e634459cd59d9753",
+            "id": "bed6e5ffb65f18b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CFA2/4-投资组合管理/CAPM.md",
+                "file": "基金从业资格考试/基金从业考试科目一 法律法规/第四章 基金市场参与主体及其从业人员的法规要求/基金管理人.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,24 +28,25 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CAPM"
+              "title": "基金管理人"
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "8ba0b403451ded8e",
+    "id": "bd7f7c3c26080316",
     "type": "split",
     "children": [
       {
-        "id": "72903aace80989d6",
+        "id": "9a4193085484bf98",
         "type": "tabs",
         "children": [
           {
-            "id": "47435c2058ea21bb",
+            "id": "8d9f0db283533c5d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -54,16 +55,16 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
-            "id": "01fc08143736cf5e",
+            "id": "8e8b6213e9ccf1d3",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "CAPM",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,21 +72,31 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "搜索"
+              "title": "Search"
             }
           },
           {
-            "id": "e7e9fdf1517eec43",
+            "id": "76084d10fba384af",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "书签"
+              "title": "Bookmarks"
             }
           },
           {
-            "id": "65e21d478dc22473",
+            "id": "045df1b83a3644e8",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "25cbe6dcec2d5e07",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -94,56 +105,55 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 237.5
   },
   "right": {
-    "id": "fe6875f373c240cb",
+    "id": "e0728eca44de90e9",
     "type": "split",
     "children": [
       {
-        "id": "bdf1a8348c08f084",
+        "id": "954ac486a5b6e09b",
         "type": "tabs",
         "children": [
           {
-            "id": "7f2ebb5a241bf5d8",
+            "id": "95625edf04a506f2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CFA2/4-投资组合管理/CAPM.md",
-                "collapseAll": false,
+                "file": "基金从业资格考试/第一章 金融市场与资产管理/基金从业资格考试 -第一章-目录.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "CAPM 的反向链接列表"
+              "title": "Backlinks for 基金从业资格考试 -第一章-目录"
             }
           },
           {
-            "id": "9d912d7a5b6c13c1",
+            "id": "eab6329de923eb71",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CFA2/4-投资组合管理/CAPM.md",
+                "file": "基金从业资格考试/第五章 基金活动的法规要求/合格投资者.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "CAPM 的出链列表"
+              "title": "Outgoing links from 合格投资者"
             }
           },
           {
-            "id": "501e78e5008e4726",
+            "id": "783e7a6503a70bfb",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -154,67 +164,106 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "标签"
+              "title": "Tags"
             }
           },
           {
-            "id": "ef13b4566d403107",
+            "id": "143e1b59f27366a7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "CFA2/4-投资组合管理/CAPM.md",
+                "file": "基金从业资格考试/基金从业考试科目一 法律法规/第四章 基金市场参与主体及其从业人员的法规要求/基金管理人.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "CAPM 的大纲"
+              "title": "Outline of 基金管理人"
             }
           },
           {
-            "id": "4d2d2310b42e0f05",
+            "id": "4092b192df6443d2",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
               "state": {},
               "icon": "SpacedRepIcon",
-              "title": "笔记复习序列"
+              "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "random-note:开始漫游笔记": false,
-      "workspaces:管理工作区布局": false,
-      "bases:新建数据库": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "bases:Create new base": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
       "omnisearch:Omnisearch": false,
-      "header-adjuster:Adjust Headers": false,
-      "obsidian-spaced-repetition:复习卡片": false
+      "header-adjuster:Adjust Headers": false
     }
   },
-  "active": "e634459cd59d9753",
+  "active": "bed6e5ffb65f18b5",
   "lastOpenFiles": [
-    "240426.md",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第四章 基金市场参与主体及其从业人员的法规要求/公募基金管理人的退出.md",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第四章 基金市场参与主体及其从业人员的法规要求/基金管理人.md",
+    "基金托管人的法定职责.md",
     "基金从业资格考试/基金从业考试科目二 证券投资/第二章 基金的类型/管理人中管理人产品.md",
-    "基金从业资格考试/基金从业考试科目二 证券投资/第八章 投资流程管理/投资管理相关部门.md",
-    "基金从业资格考试/基金从业考试科目一 法律法规/基金合同.md",
-    "基金从业资格考试/基金从业考试科目二 证券投资/第六章 衍生品工具/第二章 基金的类型.md",
-    "基金从业资格考试/基金从业考试科目二 证券投资/未命名 1",
     "基金从业资格考试/基金从业考试科目二 证券投资/第二章 基金的类型",
-    "基金从业资格考试/基金从业考试科目二 证券投资/第六章 衍生品工具"
+    "基金从业资格考试/基金从业考试科目一 法律法规/第四章 基金市场参与主体及其从业人员的法规要求/私募基金管理人的法定职责.md",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第四章 基金市场参与主体及其从业人员的法规要求/私募基金管理人的治理.md",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第四章 基金市场参与主体及其从业人员的法规要求/私募基金管理人的业务规范.md",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第四章 基金市场参与主体及其从业人员的法规要求/私募基金管理人.md",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第四章 基金市场参与主体及其从业人员的法规要求/对基金托管人的监督管理.md",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第四章 基金市场参与主体及其从业人员的法规要求/基金托管人职责终止.md",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第四章 基金市场参与主体及其从业人员的法规要求/公募基金管理人风险准备金制度和财务指标.md",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第四章 基金市场参与主体及其从业人员的法规要求/主要股东.md",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第五章 基金活动的法规要求/公募基金募集的相关规定.md",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第二章 基金概述/契约型基金.md",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第二章 基金概述/基金的发展历程.md",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第一章 金融市场与资产管理/基金注册登记机构.md",
+    "基金从业资格考试/基金从业考试科目一 法律法规/基金合同.md",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第四章 基金市场参与主体及其从业人员的法规要求/其他资产管理机构.md",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第四章 基金市场参与主体及其从业人员的法规要求/基金从业人员.md",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第四章 基金市场参与主体及其从业人员的法规要求/公募基金管理人的经营.md",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第四章 基金市场参与主体及其从业人员的法规要求/基金从业考试-第四章-目录.md",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第五章 基金活动的法规要求/私募资产管理计划运作的相关规定.md",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第四章 基金市场参与主体及其从业人员的法规要求/公募基金管理人的业务规范.md",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第三章 基金法律法规体系和监管体系/中国证券投资基金业协会.md",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第五章 基金活动的法规要求/风险准备金.md",
+    "证券行业从业/01-证券市场基本法律法规/01-证券市场基本法律法规-目录.md",
+    "基金从业资格考试/基金从业考试科目二 证券投资/第八章 投资流程管理",
+    "基金从业资格考试/基金从业考试科目二 证券投资/第五章 固定收益投资",
+    "基金从业资格考试/基金从业考试科目二 证券投资/第一章 证券投资基金概述",
+    "基金从业资格考试/基金从业考试科目二 证券投资",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第四章 基金市场参与主体及其从业人员的法规要求",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第六章 风险管理",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第五章 基金活动的法规要求",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第二章 基金概述",
+    "基金从业资格考试/基金从业考试科目一 法律法规/第三章 基金法律法规体系和监管体系",
+    "Pasted image 20260428203115.png",
+    "Pasted image 20240425103412.png",
+    "Pasted image 20240526104523.png",
+    "Pasted image 20260423222948.png",
+    "Pasted image 20240523154355.png",
+    "Pasted image 20260418143848.png",
+    "Pasted image 20260418122509.png",
+    "Pasted image 20260418122500.png",
+    "Pasted image 20260418122457.png",
+    "Pasted image 20260418122440.png",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
   ]
 }
