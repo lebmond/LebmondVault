@@ -1,0 +1,1 @@
+The short rate is the (continuously compounded, annualised) interest rate at which an entity can borrowmoney for an infinitesimally short period of time from time

@@ -1,0 +1,1 @@
+A risk measure must satisfy monotonicity, sub-additivity, homogeneity, and translation invariance. VaR fails subadditivity under non-normal distributions, whereas ES is fully coherent. 

@@ -1,0 +1,1 @@
+A make-whole call lets the issuer redeem early, but only at the greater of par and the present value of the remaining payments discounted at the Treasury rate plus a pre-agreed spread, so when rates fall the call price rises and calling becomes uneconomical.

@@ -28,5 +28,21 @@ Isolates inflation, so that:
 $$\text{Real GDP Growth(\%)}=\text{Nominal GDP Growth (\%)} - \text{Inflation(\%)}$$
 which is more insightful.
 
-## Recession
-Two consecutive quarters of negative Real GDP Growth
+
+# Growth Decomposition
+1. Growth from labor
+	1. Growth in potential labor force size
+	2. Growth in actual labor force participation
+2. Growth from labor productivity
+	1. Growth from increasing capital inputs (Capital Deepening)
+	2. Growth in Total Factor Productivity
+
+# Asset Returns and Trend Growth Rate of GDP
+•
+Trend growth rate is useful in estimating:
+Bond yields over the long run.
+• Real default-free bond yields are mean-reverting.
+• They move toward real GDP trend growth rate in the long run.
+• Equity appreciation over the long run.
+• The trend growth rate acts as an anchor for long-run equity appreciation.
+Aggregate market value of equity: $V = GDP\times S^K\times PE$
